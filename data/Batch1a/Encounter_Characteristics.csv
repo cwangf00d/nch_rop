@@ -1,0 +1,924 @@
+ENC_ID,GEST_AGE_INDAYS,BIRTH_WT_INOUNCES,GENDER,ETHNICITY,RACE,AGE_AT_ADMIT,ADMIT_DAY,ADMIT_TIME,DISCH_DAY,DISCH_TIME
+572839292,168,26.81,Female,Not Hispanic or Latino,White,5,0,09:34:00,164,16:56:00
+572839294,180,34.39,Male,Not Hispanic or Latino,White,0,0,17:58:00,109,17:04:00
+572839296,212,35.63,Female,Hispanic or Latino,White,0,0,15:53:00,75,19:33:00
+572839301,183,30.51,Female,Not Hispanic or Latino,Black or African American,9,0,15:04:00,67,13:32:00
+572839302,174,28.22,Male,Not Hispanic or Latino,Black or African American,0,0,15:43:00,155,16:28:00
+572839305,225,65.96,Male,Not Hispanic or Latino,White,0,0,08:32:00,19,15:19:00
+572839306,178,30.16,Male,Not Hispanic or Latino,Black or African American,0,0,02:28:00,119,18:50:00
+572839307,197,42.15,Male,Not Hispanic or Latino,Black or African American,0,0,08:59:00,176,14:56:00
+572839311,215,35.27,Female,Not Hispanic or Latino,White,6,0,12:00:00,43,19:01:00
+572839312,171,25.04,Male,Not Hispanic or Latino,White,0,0,20:08:00,499,15:23:00
+572839314,176,25.22,Male,Not Hispanic or Latino,White,0,0,16:25:00,125,15:55:00
+572839316,209,46.21,Male,Not Hispanic or Latino,White,0,0,07:22:00,48,15:29:00
+572839318,197,38.62,Female,Not Hispanic or Latino,Black or African American,0,0,16:53:00,84,15:44:00
+572839321,221,43.03,Male,Not Hispanic or Latino,White,0,0,23:45:00,35,14:23:00
+572839322,196,29.91,Female,Not Hispanic or Latino,White,0,0,11:38:00,79,18:17:00
+572839324,179,36.51,Male,Not Hispanic or Latino,Black or African American,0,0,14:18:00,77,11:26:00
+572839325,185,42.33,Male,Not Hispanic or Latino,White,0,0,23:03:00,116,16:55:00
+572839328,224,77.07,Female,Unknown,Unknown,0,0,11:25:00,29,14:00:00
+572839330,198,36.51,Male,Not Hispanic or Latino,White,0,0,14:17:00,260,13:51:00
+572839333,200,45.33,Male,Not Hispanic or Latino,White,0,0,05:51:00,93,13:06:00
+572839334,191,44.09,Male,Not Hispanic or Latino,Multiple race,1,0,01:35:00,63,17:04:00
+572839335,196,29.28,Male,Not Hispanic or Latino,White,0,0,21:51:00,99,16:35:00
+572839336,184,32.45,Male,Not Hispanic or Latino,Black or African American,1,0,02:15:00,70,15:15:00
+572839339,177,32.1,Male,Not Hispanic or Latino,Multiple race,0,0,05:08:00,112,15:56:00
+572839340,182,22.05,Male,Not Hispanic or Latino,White,0,0,17:53:00,176,15:51:00
+572839343,203,46.21,Male,Not Hispanic or Latino,White,0,0,05:28:00,87,18:55:00
+572839345,227,44.44,Male,Not Hispanic or Latino,White,0,0,17:35:00,70,12:55:00
+572839347,163,22.4,Female,Not Hispanic or Latino,White,0,0,18:58:00,163,14:20:00
+572839349,211,46.56,Male,Not Hispanic or Latino,White,1,0,02:12:00,65,14:35:00
+572839350,178,28.54,Male,Not Hispanic or Latino,White,7,0,13:23:00,106,14:20:00
+572839353,196,34.04,Female,Not Hispanic or Latino,White,0,0,08:56:00,80,12:13:00
+572839354,203,57.32,Male,Not Hispanic or Latino,White,1,0,00:17:00,78,10:27:00
+572839355,193,37.39,Male,Not Hispanic or Latino,Asian,0,0,21:18:00,75,17:50:00
+572839356,202,50.79,Male,Not Hispanic or Latino,Multiple race,0,0,20:10:00,106,16:28:00
+572839357,169,23.99,Male,Not Hispanic or Latino,Black or African American,0,0,10:20:00,125,15:44:00
+572839361,210,61.55,Male,Not Hispanic or Latino,White,0,0,14:50:00,55,16:50:00
+572839364,214,59.37,Female,Hispanic or Latino,Unknown,1,0,00:11:00,37,17:37:00
+572839365,175,27.87,Male,Not Hispanic or Latino,Black or African American,13,0,15:51:00,135,17:58:00
+572839369,228,68.78,Male,Not Hispanic or Latino,White,0,0,22:44:00,27,15:37:00
+572839370,178,26.38,Male,Other,Multiple race,0,0,14:07:00,159,16:35:00
+572839376,183,31.75,Male,Not Hispanic or Latino,White,0,0,05:22:00,104,16:33:00
+572839379,208,44.44,Female,Not Hispanic or Latino,Black or African American,0,0,07:34:00,76,17:53:00
+572839380,168,20.46,Female,Not Hispanic or Latino,Black or African American,0,0,06:47:00,156,16:07:00
+572839381,188,32.63,Male,Not Hispanic or Latino,Asian,0,0,14:53:00,109,12:44:00
+572839382,180,30.69,Female,Not Hispanic or Latino,White,0,0,00:50:00,131,21:35:00
+572839383,210,47.55,Female,Not Hispanic or Latino,White,0,0,12:22:00,71,16:20:00
+572839384,189,28.78,Female,Not Hispanic or Latino,White,0,0,09:43:00,128,12:55:00
+572839386,208,44.44,Male,Not Hispanic or Latino,Black or African American,0,0,09:14:00,37,17:36:00
+572839388,230,74.11,Male,Not Hispanic or Latino,White,0,0,13:40:00,14,16:15:00
+572839389,227,61.2,Male,Not Hispanic or Latino,Black or African American,0,0,09:03:00,35,15:49:00
+572839391,229,79.89,Male,Not Hispanic or Latino,White,0,0,14:21:00,22,15:22:00
+572839392,189,28.22,Male,Not Hispanic or Latino,White,0,0,05:42:00,127,15:11:00
+572839393,204,37.74,Male,Not Hispanic or Latino,Black or African American,0,0,10:13:00,53,14:26:00
+572839395,196,37.39,Female,Not Hispanic or Latino,Black or African American,0,0,12:28:00,76,16:28:00
+572839396,216,42.33,Male,Not Hispanic or Latino,White,0,0,13:38:00,69,12:42:00
+572839400,198,35.8,Male,Not Hispanic or Latino,Black or African American,0,0,03:19:00,54,19:40:00
+572839401,230,69.49,Male,Not Hispanic or Latino,Black or African American,1,0,10:38:00,33,18:31:00
+572839406,175,24.69,Male,Not Hispanic or Latino,Black or African American,0,0,15:20:00,127,16:22:00
+572839408,230,83.77,Female,Not Hispanic or Latino,Black or African American,0,0,09:40:00,16,16:15:00
+572839409,197,41.16,Male,Not Hispanic or Latino,White,0,0,05:50:00,106,17:21:00
+572839410,205,41.09,Female,Not Hispanic or Latino,White,0,0,11:27:00,74,16:34:00
+572839411,203,35.27,Male,Not Hispanic or Latino,Black or African American,0,0,20:32:00,114,18:09:00
+572839412,190,34.57,Male,Not Hispanic or Latino,Multiple race,1,0,00:12:00,91,15:27:00
+572839413,209,43.56,Male,Not Hispanic or Latino,White,0,0,06:56:00,55,16:05:00
+572839421,217,83.6,Male,Not Hispanic or Latino,White,0,0,21:38:00,134,13:33:00
+572839422,200,37.74,Male,Not Hispanic or Latino,White,0,0,23:11:00,73,12:33:00
+572839426,176,27.16,Female,Not Hispanic or Latino,Black or African American,0,0,18:31:00,183,13:39:00
+572839427,174,26.28,Male,Not Hispanic or Latino,Black or African American,0,0,20:55:00,2,05:07:00
+572839428,229,108.29,Male,Not Hispanic or Latino,White,8,0,19:15:00,22,12:53:00
+572839429,225,69.14,Male,Not Hispanic or Latino,White,0,0,01:40:00,28,12:41:00
+572839430,193,23.63,Male,Not Hispanic or Latino,White,0,0,16:51:00,150,13:54:00
+572839431,186,41.62,Male,Not Hispanic or Latino,White,0,0,14:06:00,119,15:21:00
+572839432,196,40.92,Female,Not Hispanic or Latino,Multiple race,0,0,16:18:00,67,17:05:00
+572839434,204,49.38,Male,Not Hispanic or Latino,White,0,0,06:30:00,68,13:32:00
+572839437,181,26.46,Female,Not Hispanic or Latino,Black or African American,0,0,20:10:00,13,09:48:00
+572839438,222,62.89,Male,Not Hispanic or Latino,Black or African American,0,0,13:51:00,26,21:50:00
+572839439,180,28.92,Male,Not Hispanic or Latino,Black or African American,0,0,00:16:00,188,15:35:00
+572839440,207,48.68,Male,Not Hispanic or Latino,White,0,0,20:22:00,63,16:26:00
+572839442,226,43.74,Male,Not Hispanic or Latino,White,0,0,12:46:00,81,14:33:00
+572839444,222,45.86,Female,Not Hispanic or Latino,Black or African American,0,0,19:44:00,37,20:36:00
+572839445,162,21.16,Male,Hispanic or Latino,Black or African American,0,0,16:13:00,153,15:13:00
+572839446,173,24.69,Male,Not Hispanic or Latino,White,0,0,15:05:00,1,00:00:00
+572839447,226,52.56,Female,Not Hispanic or Latino,White,0,0,13:06:00,50,10:20:00
+572839448,164,26.81,Male,Not Hispanic or Latino,Asian,0,0,00:46:00,160,22:59:00
+572839449,204,46.21,Male,Not Hispanic or Latino,Multiple race,0,0,07:56:00,73,13:36:00
+572839451,154,13.4,Female,Not Hispanic or Latino,Black or African American,0,0,09:09:00,150,15:10:00
+572839452,161,17.64,Male,Not Hispanic or Latino,White,0,0,13:11:00,1,00:20:00
+572839454,166,21.87,Male,Not Hispanic or Latino,Black or African American,8,0,14:34:00,8,16:50:00
+572839455,230,56.16,Male,Not Hispanic or Latino,Black or African American,0,0,19:14:00,49,19:02:00
+572839456,216,74.78,Female,Not Hispanic or Latino,White,1,0,00:53:00,47,17:35:00
+572839458,211,43.74,Male,Not Hispanic or Latino,White,1,0,03:22:00,56,17:47:00
+572839462,192,44.09,Female,Not Hispanic or Latino,White,0,0,21:08:00,85,16:07:00
+572839464,190,34.22,Male,Not Hispanic or Latino,Black or African American,0,0,10:26:00,143,17:51:00
+572839467,203,53.97,Female,Not Hispanic or Latino,Multiple race,0,0,12:33:00,45,13:12:00
+572839468,224,63.85,Female,Hispanic or Latino,Black or African American,0,0,16:07:00,23,13:36:00
+572839469,206,52.56,Female,Not Hispanic or Latino,Black or African American,0,0,01:54:00,40,13:53:00
+572839470,226,35.63,Female,Not Hispanic or Latino,Black or African American,12,0,17:54:00,21,19:27:00
+572839474,203,39.86,Male,Not Hispanic or Latino,White,0,0,14:49:00,56,15:51:00
+572839475,219,40.74,Male,Unknown,Unknown,0,0,23:08:00,20,05:48:00
+572839476,224,67.44,Female,Hispanic or Latino,White,0,0,20:01:00,35,16:25:00
+572839479,221,54.85,Female,Not Hispanic or Latino,Multiple race,0,0,10:41:00,23,14:34:00
+572839482,188,31.39,Male,Not Hispanic or Latino,Black or African American,0,0,16:30:00,60,15:28:00
+572839484,190,21.16,Female,Unknown,Unknown,0,0,15:32:00,25,01:40:00
+572839486,221,19.93,Male,Not Hispanic or Latino,White,0,0,10:00:00,8,05:16:00
+572839491,222,95.42,Male,Not Hispanic or Latino,White,0,0,07:28:00,54,20:20:00
+572839493,173,24.69,Male,Not Hispanic or Latino,Asian,0,0,13:10:00,3,23:08:00
+572839494,161,20.11,Female,Unknown,Unknown,0,0,22:38:00,9,14:30:00
+572839495,228,46.56,Male,Not Hispanic or Latino,White,0,0,23:13:00,28,13:00:00
+572839497,172,24.59,Male,Unknown,Unknown,0,0,03:23:00,22,08:22:00
+572839498,228,56.86,Female,Not Hispanic or Latino,Multiple race,0,0,21:58:00,24,15:43:00
+572839499,179,28.92,Female,Not Hispanic or Latino,White,0,0,12:26:00,104,15:00:00
+572839501,209,52.2,Female,Not Hispanic or Latino,White,0,0,05:35:00,78,18:58:00
+572839502,221,64.06,Male,Not Hispanic or Latino,White,0,0,15:00:00,59,16:12:00
+572839504,215,51.61,Female,Not Hispanic or Latino,White,0,0,06:41:00,103,15:27:00
+572839505,222,72.66,Male,Not Hispanic or Latino,White,0,0,14:28:00,47,13:57:00
+572839506,167,22.93,Male,Hispanic or Latino,Unknown,1,0,08:30:00,166,13:40:00
+572839510,188,38.8,Female,Not Hispanic or Latino,White,0,0,19:45:00,87,17:51:00
+572839513,212,25.57,Male,Not Hispanic or Latino,White,0,0,11:12:00,57,18:34:00
+572839515,185,32.63,Male,Not Hispanic or Latino,White,0,0,16:33:00,145,13:48:00
+572839518,196,32.8,Male,Not Hispanic or Latino,Multiple race,1,0,00:57:00,120,21:54:00
+572839519,230,58.38,Male,Not Hispanic or Latino,White,11,0,16:26:00,81,12:40:00
+572839520,219,65.26,Male,Not Hispanic or Latino,Black or African American,0,0,04:01:00,34,12:07:00
+572839521,196,42.33,Male,Not Hispanic or Latino,White,0,0,08:49:00,69,13:44:00
+572839522,224,59.08,Female,Not Hispanic or Latino,White,0,0,18:11:00,26,14:07:00
+572839524,184,15.87,Male,Not Hispanic or Latino,Multiple race,0,0,12:34:00,154,19:45:00
+572839526,213,49.38,Female,Not Hispanic or Latino,Black or African American,0,0,02:06:00,78,15:25:00
+572839528,211,45.4,Male,Not Hispanic or Latino,White,0,0,10:30:00,48,16:41:00
+572839530,206,34.04,Male,Not Hispanic or Latino,White,0,0,17:11:00,198,13:39:00
+572839531,183,22.4,Male,Not Hispanic or Latino,Black or African American,0,0,21:40:00,107,19:35:00
+572839532,221,58.55,Male,Not Hispanic or Latino,White,0,0,07:52:00,69,14:06:00
+572839533,213,64.2,Male,Not Hispanic or Latino,White,0,0,23:36:00,53,16:04:00
+572839534,199,50.09,Male,Not Hispanic or Latino,White,0,0,21:49:00,80,14:13:00
+572839536,220,37.74,Male,Not Hispanic or Latino,White,0,0,10:09:00,52,15:41:00
+572839539,215,28.22,Male,Not Hispanic or Latino,Black or African American,0,0,07:23:00,59,15:42:00
+572839544,222,84.66,Male,Not Hispanic or Latino,Black or African American,0,0,11:11:00,152,18:01:00
+572839549,203,64.9,Male,Not Hispanic or Latino,White,0,0,17:31:00,42,18:47:00
+572839552,221,64.2,Female,Not Hispanic or Latino,White,0,0,09:09:00,178,14:08:00
+572839554,199,22.22,Male,Not Hispanic or Latino,White,0,0,21:34:00,101,14:35:00
+572839555,204,50.79,Male,Not Hispanic or Latino,Black or African American,1,0,00:05:00,229,19:14:00
+572839559,213,92.24,Female,Not Hispanic or Latino,White,0,0,00:47:00,120,22:05:00
+572839561,226,80.25,Female,Not Hispanic or Latino,Black or African American,0,0,03:14:00,446,10:53:00
+572839562,225,34.92,Female,Not Hispanic or Latino,White,0,0,12:44:00,111,15:20:00
+572839565,208,46.03,Male,Not Hispanic or Latino,Black or African American,0,0,20:54:00,50,16:26:00
+572839566,215,61.02,Male,Not Hispanic or Latino,White,13,0,09:44:00,36,12:31:00
+572839567,200,38.45,Male,Not Hispanic or Latino,White,0,0,05:18:00,118,14:58:00
+572839568,209,59.79,Male,Not Hispanic or Latino,White,0,0,12:32:00,35,13:35:00
+572839569,215,48.32,Female,Not Hispanic or Latino,White,3,0,18:16:00,47,19:35:00
+572839570,202,49.38,Male,Not Hispanic or Latino,Black or African American,0,0,14:17:00,2,23:25:00
+572839572,216,59.79,Male,Not Hispanic or Latino,White,0,0,05:00:00,57,16:09:00
+572839573,167,17.64,Male,Not Hispanic or Latino,White,17,0,16:20:00,200,15:00:00
+572839574,158,17.64,Male,Not Hispanic or Latino,White,0,0,22:53:00,145,15:41:00
+572839577,215,49.03,Female,Hispanic or Latino,White,0,0,16:18:00,36,15:57:00
+572839578,219,43.28,Female,Not Hispanic or Latino,White,0,0,22:05:00,102,14:38:00
+572839580,166,28.92,Male,Not Hispanic or Latino,Black or African American,0,0,15:56:00,279,19:51:00
+572839582,221,64.23,Female,Not Hispanic or Latino,Multiple race,0,0,23:59:00,25,16:37:00
+572839583,197,28.92,Female,Not Hispanic or Latino,Black or African American,0,0,11:12:00,86,18:23:00
+572839585,168,19.75,Male,Not Hispanic or Latino,Black or African American,12,0,17:00:00,137,19:32:00
+572839586,199,26.46,Female,Not Hispanic or Latino,White,20,0,12:42:00,157,14:10:00
+572839587,227,52.91,Female,Not Hispanic or Latino,White,0,0,07:05:00,49,10:30:00
+572839589,216,43.39,Female,Not Hispanic or Latino,White,0,0,10:23:00,47,11:41:00
+572839594,224,38.1,Female,Not Hispanic or Latino,Multiple race,0,0,07:48:00,63,18:52:00
+572839595,191,37.74,Female,Not Hispanic or Latino,Black or African American,25,0,06:04:00,38,13:21:00
+572839597,217,54.32,Female,Not Hispanic or Latino,White,1,0,00:26:00,6,10:00:00
+572839600,222,52.91,Male,Not Hispanic or Latino,White,0,0,01:49:00,46,12:12:00
+572839601,192,39.51,Male,Unknown,Unknown,0,0,01:26:00,23,15:35:00
+572839602,203,43.74,Female,Not Hispanic or Latino,White,0,0,14:09:00,57,12:28:00
+572839603,187,31.75,Female,Not Hispanic or Latino,White,0,0,07:37:00,110,16:38:00
+572839605,223,63.14,Female,Not Hispanic or Latino,White,0,0,23:55:00,23,15:13:00
+572839608,224,62.96,Female,Not Hispanic or Latino,White,0,0,22:21:00,29,14:53:00
+572839611,196,42.5,Female,Not Hispanic or Latino,White,0,0,13:43:00,49,18:39:00
+572839616,223,56.44,Male,Not Hispanic or Latino,Black or African American,0,0,13:47:00,24,18:17:00
+572839617,222,57,Male,Not Hispanic or Latino,White,0,0,14:55:00,19,16:50:00
+572839618,178,31.57,Female,Not Hispanic or Latino,Black or African American,0,0,02:28:00,252,17:55:00
+572839620,211,59.44,Male,Not Hispanic or Latino,White,0,0,04:10:00,107,20:14:00
+572839622,176,28.57,Female,Not Hispanic or Latino,White,1,0,02:39:00,89,17:59:00
+572839625,188,15.87,Female,Not Hispanic or Latino,White,0,0,12:42:00,205,08:22:00
+572839626,220,62.43,Female,Not Hispanic or Latino,White,0,0,11:52:00,35,13:35:00
+572839628,224,56.44,Female,Not Hispanic or Latino,White,0,0,22:45:00,10,11:09:00
+572839629,208,51.15,Female,Not Hispanic or Latino,White,0,0,01:41:00,60,14:51:00
+572839631,229,65.79,Female,Not Hispanic or Latino,Multiple race,0,0,11:25:00,33,13:12:00
+572839632,154,17.28,Female,Not Hispanic or Latino,White,0,0,11:32:00,148,15:04:00
+572839633,223,51.5,Male,Not Hispanic or Latino,Black or African American,0,0,12:13:00,119,16:34:00
+572839634,213,56.44,Male,Not Hispanic or Latino,White,0,0,22:48:00,59,16:27:00
+572839636,215,21.87,Female,Hispanic or Latino,White,0,0,16:17:00,93,14:23:00
+572839637,218,73.37,Female,Not Hispanic or Latino,White,1,0,02:31:00,42,13:23:00
+572839638,185,24.69,Male,Not Hispanic or Latino,White,0,0,11:02:00,141,13:56:00
+572839640,223,71.25,Male,Not Hispanic or Latino,White,0,0,07:28:00,30,13:02:00
+572839641,196,33.86,Male,Not Hispanic or Latino,White,0,0,08:30:00,149,15:44:00
+572839642,215,57.5,Female,Not Hispanic or Latino,White,1,0,02:30:00,101,16:45:00
+572839643,218,42.68,Male,Not Hispanic or Latino,Black or African American,0,0,15:52:00,36,10:49:00
+572839645,182,17.99,Male,Not Hispanic or Latino,White,0,0,10:15:00,189,01:21:00
+572839646,226,79.89,Male,Not Hispanic or Latino,Black or African American,0,0,19:21:00,46,16:02:00
+572839647,220,55.56,Male,Not Hispanic or Latino,Black or African American,0,0,01:11:00,30,14:55:00
+572839648,225,49.38,Female,Not Hispanic or Latino,Multiple race,2,0,17:30:00,18,13:20:00
+572839649,222,33.02,Male,Not Hispanic or Latino,Black or African American,0,0,08:23:00,67,13:57:00
+572839650,160,17.81,Male,Unknown,Unknown,0,0,18:54:00,22,14:52:00
+572839651,215,64.02,Male,Not Hispanic or Latino,White,0,0,01:14:00,58,15:11:00
+572839654,222,57.25,Female,Not Hispanic or Latino,White,0,0,00:31:00,53,15:37:00
+572839655,211,51.85,Male,Hispanic or Latino,White,0,0,01:08:00,87,14:45:00
+572839658,214,44.44,Male,Not Hispanic or Latino,White,0,0,06:19:00,46,13:40:00
+572839662,213,27.34,Male,Not Hispanic or Latino,White,0,0,21:46:00,153,18:00:00
+572839663,184,35.45,Male,Unknown,Unknown,0,0,06:15:00,17,23:35:00
+572839667,194,37.39,Female,Not Hispanic or Latino,White,0,0,18:02:00,91,22:42:00
+572839668,203,43.56,Female,Not Hispanic or Latino,Multiple race,0,0,12:47:00,51,15:45:00
+572839671,220,66.14,Male,Not Hispanic or Latino,White,0,0,21:27:00,98,15:13:00
+572839676,191,44.8,Male,Not Hispanic or Latino,Black or African American,0,0,09:16:00,62,18:48:00
+572839677,209,63.49,Male,Not Hispanic or Latino,Black or African American,0,0,23:29:00,60,14:35:00
+572839679,186,37.04,Female,Not Hispanic or Latino,White,0,0,03:59:00,11,16:39:00
+572839682,193,34.39,Male,Not Hispanic or Latino,White,0,0,17:27:00,67,15:31:00
+572839686,226,44.27,Male,Not Hispanic or Latino,White,0,0,19:58:00,34,15:45:00
+572839691,224,72.31,Female,Not Hispanic or Latino,White,2,0,13:44:00,1,13:13:00
+572839694,158,17.11,Female,Unknown,Unknown,0,0,12:26:00,8,14:04:00
+572839695,178,26.1,Male,Unknown,Unknown,1,0,02:42:00,0,10:20:00
+572839697,208,46.21,Male,Not Hispanic or Latino,Black or African American,0,0,03:52:00,37,12:24:00
+572839698,200,29.81,Female,Not Hispanic or Latino,White,0,0,12:52:00,236,14:59:00
+572839699,175,27.87,Female,Not Hispanic or Latino,Black or African American,23,0,14:56:00,72,13:25:00
+572839700,181,31.01,Female,Not Hispanic or Latino,Black or African American,0,0,17:56:00,128,14:45:00
+572839701,211,47.62,Male,Not Hispanic or Latino,Black or African American,0,0,14:30:00,53,19:25:00
+572839702,179,27.34,Female,Not Hispanic or Latino,Black or African American,0,0,18:23:00,221,16:03:00
+572839703,198,39.15,Male,Not Hispanic or Latino,White,0,0,02:14:00,143,23:32:00
+572839704,196,33.69,Female,Not Hispanic or Latino,White,0,0,01:23:00,91,17:35:00
+572839705,201,44.8,Female,Not Hispanic or Latino,Black or African American,0,0,04:46:00,38,13:13:00
+572839706,160,18.17,Male,Not Hispanic or Latino,Black or African American,0,0,10:17:00,419,13:54:00
+572839707,223,55.38,Male,Not Hispanic or Latino,Black or African American,0,0,13:31:00,57,13:39:00
+572839711,170,15.87,Female,Not Hispanic or Latino,Black or African American,0,0,12:48:00,8,18:47:00
+572839713,182,26.1,Female,Not Hispanic or Latino,Black or African American,0,0,11:44:00,259,12:41:00
+572839714,189,23.63,Male,Not Hispanic or Latino,White,0,0,17:18:00,164,12:08:00
+572839715,183,27.87,Female,Not Hispanic or Latino,White,0,0,06:32:00,88,18:21:00
+572839717,183,33.51,Female,Not Hispanic or Latino,White,8,0,14:28:00,138,22:09:00
+572839720,185,34.04,Female,Not Hispanic or Latino,Black or African American,0,0,17:36:00,106,14:24:00
+572839721,162,17.46,Male,Not Hispanic or Latino,Black or African American,0,0,05:35:00,362,12:35:00
+572839722,212,38.1,Female,Not Hispanic or Latino,White,0,0,22:00:00,69,16:41:00
+572839723,210,59.97,Male,Not Hispanic or Latino,White,0,0,12:16:00,56,13:19:00
+572839725,203,48.32,Male,Not Hispanic or Latino,Black or African American,0,0,15:02:00,69,14:24:00
+572839727,209,57.14,Male,Not Hispanic or Latino,White,0,0,04:20:00,47,10:55:00
+572839729,211,25.15,Male,Not Hispanic or Latino,White,0,0,10:30:00,91,17:17:00
+572839730,188,26.63,Male,Not Hispanic or Latino,White,0,0,11:29:00,99,16:40:00
+572839731,217,55.2,Male,Not Hispanic or Latino,White,0,0,18:35:00,122,15:44:00
+572839732,183,33.16,Male,Not Hispanic or Latino,White,0,0,17:05:00,173,14:22:00
+572839734,195,35.63,Male,Not Hispanic or Latino,White,1,0,01:42:00,114,12:21:00
+572839736,166,23.28,Male,Not Hispanic or Latino,Black or African American,0,0,09:28:00,158,18:19:00
+572839738,212,48.68,Female,Not Hispanic or Latino,Black or African American,0,0,16:14:00,72,14:37:00
+572839739,207,51.85,Male,Not Hispanic or Latino,White,0,0,09:00:00,127,13:52:00
+572839741,188,35.98,Male,Unknown,Unknown,0,0,06:07:00,131,15:49:00
+572839742,212,27.69,Female,Not Hispanic or Latino,White,0,0,12:40:00,58,14:36:00
+572839743,163,23.28,Male,Not Hispanic or Latino,White,12,0,15:14:00,162,16:03:00
+572839744,213,41.27,Female,Not Hispanic or Latino,White,0,0,13:45:00,63,15:18:00
+572839745,230,59.97,Female,Not Hispanic or Latino,Black or African American,0,0,16:33:00,18,18:29:00
+572839747,190,28.92,Female,Not Hispanic or Latino,White,0,0,08:38:00,125,13:28:00
+572839749,209,56.97,Female,Not Hispanic or Latino,White,0,0,01:39:00,41,11:50:00
+572839751,203,34.22,Female,Not Hispanic or Latino,Refuse to answer,0,0,22:18:00,72,20:45:00
+572839752,212,58.2,Female,Not Hispanic or Latino,White,0,0,11:34:00,46,14:24:00
+572839754,212,53.12,Male,Not Hispanic or Latino,White,22,0,13:36:00,21,17:15:00
+572839755,188,34.57,Male,Not Hispanic or Latino,White,1,0,02:29:00,128,16:44:00
+572839756,182,26.24,Male,Not Hispanic or Latino,White,1,0,05:34:00,141,11:34:00
+572839757,210,43.56,Female,Not Hispanic or Latino,White,0,0,12:41:00,105,15:38:00
+572839758,218,45.61,Male,Not Hispanic or Latino,White,0,0,13:40:00,128,10:57:00
+572839759,208,46.31,Female,Not Hispanic or Latino,Black or African American,0,0,07:44:00,82,19:19:00
+572839763,210,56.44,Male,Not Hispanic or Latino,Black or African American,0,0,18:05:00,50,18:16:00
+572839766,227,79.37,Male,Not Hispanic or Latino,White,7,0,12:18:00,8,22:00:00
+572839769,188,29.28,Female,Not Hispanic or Latino,Black or African American,10,0,15:02:00,147,14:40:00
+572839770,169,22.68,Male,Not Hispanic or Latino,White,0,0,23:16:00,143,15:28:00
+572839774,185,34.92,Male,Not Hispanic or Latino,Multiple race,0,0,03:09:00,136,12:24:00
+572839777,193,39.68,Male,Not Hispanic or Latino,White,0,0,15:56:00,83,17:22:00
+572839778,229,68.61,Female,Not Hispanic or Latino,White,0,0,20:50:00,27,16:45:00
+572839784,202,42.68,Male,Not Hispanic or Latino,Black or African American,0,0,13:26:00,149,16:35:00
+572839785,216,40.56,Male,Not Hispanic or Latino,Multiple race,7,0,04:46:00,90,14:27:00
+572839787,200,45.33,Female,Not Hispanic or Latino,White,0,0,19:55:00,82,09:33:00
+572839788,216,54.5,Female,Not Hispanic or Latino,White,0,0,13:11:00,38,17:23:00
+572839789,199,37.04,Male,Not Hispanic or Latino,White,9,0,16:55:00,85,14:19:00
+572839793,229,63.85,Female,Not Hispanic or Latino,Asian,0,0,19:58:00,37,12:31:00
+572839794,170,18.52,Female,Not Hispanic or Latino,White,0,0,21:45:00,162,14:24:00
+572839795,212,55.2,Female,Not Hispanic or Latino,White,0,0,13:15:00,38,14:42:00
+572839799,169,16.58,Male,Not Hispanic or Latino,Black or African American,0,0,12:29:00,208,19:08:00
+572839800,165,17.21,Female,Not Hispanic or Latino,White,0,0,21:09:00,176,16:45:00
+572839801,182,31.75,Male,Not Hispanic or Latino,White,0,0,11:05:00,103,17:46:00
+572839802,227,70.55,Male,Not Hispanic or Latino,White,0,0,02:30:00,20,21:39:00
+572839803,175,26.63,Female,Not Hispanic or Latino,Multiple race,0,0,22:26:00,280,14:48:00
+572839804,225,77.28,Male,Not Hispanic or Latino,White,0,0,14:27:00,24,13:00:00
+572839806,191,36.33,Female,Not Hispanic or Latino,White,0,0,01:49:00,114,15:48:00
+572839808,215,39.68,Male,Not Hispanic or Latino,Black or African American,0,0,07:34:00,49,20:25:00
+572839809,218,70.19,Female,Not Hispanic or Latino,White,0,0,11:34:00,32,12:29:00
+572839812,189,34.89,Male,Not Hispanic or Latino,White,0,0,08:22:00,118,13:30:00
+572839813,195,44.8,Male,Not Hispanic or Latino,White,0,0,23:51:00,342,13:36:00
+572839814,189,38.1,Male,Not Hispanic or Latino,Multiple race,0,0,15:14:00,98,14:55:00
+572839816,168,29.28,Male,Not Hispanic or Latino,White,0,0,12:59:00,239,14:40:00
+572839823,214,33.51,Female,Not Hispanic or Latino,White,0,0,02:58:00,115,13:25:00
+572839824,204,45.5,Male,Not Hispanic or Latino,White,1,0,03:31:00,90,16:53:00
+572839825,215,59.26,Female,Not Hispanic or Latino,White,0,0,06:45:00,110,13:28:00
+572839826,216,54.85,Male,Not Hispanic or Latino,Multiple race,0,0,23:45:00,28,15:45:00
+572839828,223,64.73,Male,Not Hispanic or Latino,Black or African American,0,0,04:57:00,49,18:49:00
+572839829,204,28.75,Male,Not Hispanic or Latino,Black or African American,3,0,16:56:00,89,22:50:00
+572839833,222,46.56,Female,Not Hispanic or Latino,Multiple race,0,0,06:39:00,24,15:20:00
+572839834,201,51.5,Male,Not Hispanic or Latino,Black or African American,0,0,11:55:00,63,22:17:00
+572839835,190,42.33,Male,Not Hispanic or Latino,White,0,0,12:29:00,84,15:32:00
+572839838,221,71.96,Male,Not Hispanic or Latino,White,0,0,04:25:00,51,16:29:00
+572839839,190,23.1,Female,Unknown,Unknown,0,0,08:43:00,2,21:07:00
+572839840,194,31.75,Male,Not Hispanic or Latino,White,0,0,06:17:00,79,16:37:00
+572839841,163,20.81,Female,Hispanic or Latino,White,11,0,00:57:00,129,13:39:00
+572839843,223,58.03,Female,Not Hispanic or Latino,White,0,0,01:20:00,25,16:00:00
+572839844,215,58.38,Male,Not Hispanic or Latino,White,0,0,06:21:00,29,18:08:00
+572839849,230,67.37,Male,Not Hispanic or Latino,White,0,0,07:41:00,38,17:54:00
+572839850,226,64.73,Female,Not Hispanic or Latino,White,0,0,12:46:00,21,14:44:00
+572839851,227,62.96,Male,Not Hispanic or Latino,Black or African American,0,0,19:57:00,118,15:16:00
+572839852,168,21.52,Female,Not Hispanic or Latino,Black or African American,4,0,13:28:00,213,10:41:00
+572839855,170,24.52,Female,Not Hispanic or Latino,Black or African American,0,0,11:45:00,185,14:16:00
+572839862,222,64.2,Female,Not Hispanic or Latino,White,0,0,12:17:00,52,14:30:00
+572839863,194,38.8,Female,Not Hispanic or Latino,White,0,0,14:04:00,70,13:14:00
+572839866,207,43.56,Male,Not Hispanic or Latino,White,0,0,11:48:00,55,17:27:00
+572839867,226,40.56,Female,Not Hispanic or Latino,White,0,0,16:36:00,89,12:53:00
+572839870,230,75.13,Female,Not Hispanic or Latino,White,0,0,09:58:00,17,14:58:00
+572839871,205,49.03,Male,Not Hispanic or Latino,Asian,0,0,16:34:00,56,18:46:00
+572839872,210,50.97,Female,Not Hispanic or Latino,White,0,0,22:07:00,34,13:00:00
+572839873,224,53.62,Male,Not Hispanic or Latino,Multiple race,0,0,21:47:00,46,16:15:00
+572839875,210,60.49,Male,Not Hispanic or Latino,Black or African American,0,0,17:21:00,49,21:44:00
+572839877,167,22.58,Female,Unknown,Unknown,0,0,06:58:00,48,22:19:00
+572839878,187,28.21,Male,Not Hispanic or Latino,Multiple race,0,0,06:15:00,271,14:40:00
+572839879,192,33.51,Female,Not Hispanic or Latino,White,0,0,10:40:00,89,19:02:00
+572839880,203,38.8,Female,Not Hispanic or Latino,White,0,0,09:24:00,50,14:01:00
+572839883,205,47.8,Female,Not Hispanic or Latino,Multiple race,0,0,16:32:00,58,16:11:00
+572839884,179,31.75,Male,Not Hispanic or Latino,Black or African American,0,0,05:59:00,36,22:20:00
+572839885,216,62.61,Female,Not Hispanic or Latino,White,0,0,15:53:00,39,13:26:00
+572839886,207,40.56,Female,Not Hispanic or Latino,Multiple race,0,0,21:08:00,37,13:02:00
+572839887,228,48.68,Male,Not Hispanic or Latino,White,0,0,19:53:00,43,18:11:00
+572839888,194,28.4,Male,Not Hispanic or Latino,White,0,0,02:09:00,129,13:32:00
+572839890,224,46.56,Male,Not Hispanic or Latino,White,1,0,00:15:00,28,17:49:00
+572839894,199,29.28,Male,Not Hispanic or Latino,Black or African American,0,0,01:14:00,66,15:47:00
+572839899,208,45.86,Female,Not Hispanic or Latino,Black or African American,0,0,05:46:00,77,14:03:00
+572839900,229,82.19,Female,Not Hispanic or Latino,White,0,0,11:13:00,18,15:07:00
+572839902,223,49.56,Female,Not Hispanic or Latino,White,0,0,23:53:00,58,15:15:00
+572839905,209,50.3,Male,Not Hispanic or Latino,White,0,0,09:37:00,157,07:51:00
+572839906,213,65.61,Female,Not Hispanic or Latino,White,0,0,16:21:00,63,11:39:00
+572839909,223,64.9,Male,Not Hispanic or Latino,White,0,0,19:56:00,57,11:21:00
+572839910,224,46.21,Female,Not Hispanic or Latino,Multiple race,0,0,18:45:00,22,16:24:00
+572839912,176,30.34,Female,Not Hispanic or Latino,Multiple race,0,0,05:34:00,2,13:23:00
+572839913,217,56.79,Male,Not Hispanic or Latino,Multiple race,0,0,05:50:00,31,21:31:00
+572839915,227,79.37,Female,Not Hispanic or Latino,White,1,0,04:12:00,19,15:43:00
+572839917,196,26.63,Female,Not Hispanic or Latino,White,0,0,00:35:00,122,18:57:00
+572839919,177,27.69,Female,Not Hispanic or Latino,White,0,0,13:49:00,157,15:05:00
+572839921,222,58.2,Male,Not Hispanic or Latino,White,0,0,19:43:00,50,15:08:00
+572839923,162,20.11,Female,Not Hispanic or Latino,White,0,0,11:38:00,3,17:25:00
+572839925,186,29.28,Female,Not Hispanic or Latino,White,0,0,11:39:00,5,15:00:00
+572839926,229,49.56,Female,Not Hispanic or Latino,Multiple race,0,0,11:29:00,29,16:24:00
+572839927,222,52.73,Female,Not Hispanic or Latino,Black or African American,0,0,19:31:00,36,21:29:00
+572839932,169,29.31,Male,Not Hispanic or Latino,White,0,0,20:09:00,114,13:10:00
+572839935,175,28.57,Male,Not Hispanic or Latino,White,0,0,16:11:00,2,02:07:00
+572839939,168,22.58,Female,Not Hispanic or Latino,White,0,0,11:07:00,143,15:43:00
+572839940,176,22.93,Female,Not Hispanic or Latino,White,0,0,13:53:00,256,13:50:00
+572839941,208,28.75,Female,Hispanic or Latino,White,0,0,17:50:00,80,16:28:00
+572839943,215,52.77,Male,Not Hispanic or Latino,White,0,0,11:58:00,54,16:53:00
+572839951,182,31.04,Male,Not Hispanic or Latino,White,17,0,18:17:00,200,18:00:00
+572839952,190,28.68,Male,Not Hispanic or Latino,White,0,0,10:14:00,161,16:32:00
+572839953,173,22.29,Male,Not Hispanic or Latino,White,0,0,23:24:00,168,15:40:00
+572839954,182,30.69,Female,Not Hispanic or Latino,White,0,0,06:28:00,141,15:12:00
+572839955,195,35.27,Female,Not Hispanic or Latino,Black or African American,0,0,14:11:00,77,17:20:00
+572839956,208,39.86,Female,Hispanic or Latino,Unknown,0,0,08:12:00,194,18:44:00
+572839959,229,72.49,Female,Not Hispanic or Latino,White,0,0,10:51:00,24,17:20:00
+572839960,216,49.91,Female,Not Hispanic or Latino,White,0,0,13:24:00,44,15:03:00
+572839961,203,45.93,Female,Not Hispanic or Latino,White,0,0,14:43:00,56,17:25:00
+572839962,166,23.99,Male,Not Hispanic or Latino,White,0,0,22:55:00,115,19:03:00
+572839963,215,42.86,Male,Not Hispanic or Latino,White,0,0,13:39:00,54,16:53:00
+572839964,182,18.17,Female,Not Hispanic or Latino,White,0,0,09:50:00,99,19:51:00
+572839965,196,35.98,Male,Not Hispanic or Latino,Black or African American,0,0,09:44:00,73,13:42:00
+572839966,194,46.56,Male,Not Hispanic or Latino,Black or African American,0,0,18:37:00,97,12:35:00
+572839968,191,34.39,Male,Not Hispanic or Latino,Asian,0,0,06:04:00,93,16:07:00
+572839971,194,25.75,Female,Not Hispanic or Latino,Black or African American,28,0,10:36:00,95,12:29:00
+572839972,213,38.62,Female,Not Hispanic or Latino,White,0,0,17:55:00,89,15:50:00
+572839973,180,29.98,Male,Not Hispanic or Latino,White,0,0,08:25:00,144,13:52:00
+572839977,226,45.86,Female,Not Hispanic or Latino,Black or African American,0,0,17:35:00,189,10:39:00
+572839978,185,26.1,Female,Not Hispanic or Latino,White,0,0,21:23:00,108,17:21:00
+572839979,229,60.14,Female,Not Hispanic or Latino,White,0,0,01:40:00,53,13:45:00
+572839980,166,13.76,Female,Not Hispanic or Latino,White,0,0,13:37:00,174,15:53:00
+572839982,221,67.97,Male,Not Hispanic or Latino,Black or African American,0,0,00:40:00,23,16:33:00
+572839983,200,44.44,Female,Not Hispanic or Latino,Asian,0,0,10:18:00,177,12:27:00
+572839985,185,34.92,Male,Not Hispanic or Latino,White,0,0,13:03:00,96,16:01:00
+572839987,212,49.21,Male,Not Hispanic or Latino,White,0,0,18:04:00,34,17:11:00
+572839990,202,70.9,Male,Not Hispanic or Latino,White,0,0,16:52:00,73,14:18:00
+572839991,177,26.46,Male,Not Hispanic or Latino,Black or African American,1,0,23:35:00,112,18:14:00
+572839994,171,26.1,Male,Not Hispanic or Latino,White,0,0,19:54:00,249,15:13:00
+572839996,196,41.98,Female,Not Hispanic or Latino,White,0,0,13:46:00,61,17:50:00
+572839997,227,49.52,Female,Not Hispanic or Latino,Black or African American,0,0,17:20:00,27,17:03:00
+572839999,222,42.33,Male,Not Hispanic or Latino,White,0,0,23:31:00,63,14:51:00
+572840000,194,40.56,Female,Not Hispanic or Latino,White,0,0,08:15:00,79,14:41:00
+572840001,180,25.04,Female,Not Hispanic or Latino,Asian,0,0,21:45:00,96,16:33:00
+572840005,206,57.85,Female,Not Hispanic or Latino,White,0,0,10:43:00,53,12:50:00
+572840006,220,49.38,Female,Not Hispanic or Latino,White,0,0,07:20:00,31,15:20:00
+572840008,217,54.67,Male,Not Hispanic or Latino,White,1,0,02:29:00,45,13:08:00
+572840009,222,68.43,Male,Not Hispanic or Latino,White,0,0,14:26:00,47,13:57:00
+572840010,198,41.98,Male,Not Hispanic or Latino,Asian,0,0,08:24:00,76,17:23:00
+572840012,180,37.39,Male,Not Hispanic or Latino,White,0,0,14:58:00,21,10:49:00
+572840013,218,76.37,Male,Not Hispanic or Latino,Multiple race,0,0,13:52:00,38,15:50:00
+572840014,210,34.57,Male,Not Hispanic or Latino,White,0,0,16:30:00,101,17:48:00
+572840015,178,18.59,Female,Not Hispanic or Latino,Multiple race,0,0,13:26:00,109,13:45:00
+572840016,204,56.79,Male,Not Hispanic or Latino,White,0,0,11:17:00,60,16:41:00
+572840018,208,50.79,Female,Not Hispanic or Latino,Multiple race,0,0,22:33:00,61,11:25:00
+572840019,214,47.8,Male,Not Hispanic or Latino,White,0,0,19:11:00,65,16:00:00
+572840020,196,40.92,Female,Not Hispanic or Latino,Black or African American,0,0,17:10:00,90,13:00:00
+572840021,203,47.27,Male,Not Hispanic or Latino,White,0,0,12:37:00,70,18:26:00
+572840024,165,20.46,Male,Not Hispanic or Latino,Black or African American,26,0,15:28:00,162,17:40:00
+572840025,228,67.37,Female,Not Hispanic or Latino,White,0,0,00:46:00,50,13:50:00
+572840027,199,36.51,Male,Not Hispanic or Latino,White,1,0,09:39:00,26,14:00:00
+572840028,154,15.52,Male,Not Hispanic or Latino,Unknown,9,0,04:48:00,2,15:40:00
+572840029,213,51.15,Male,Unknown,Unknown,0,0,10:40:00,37,15:18:00
+572840035,216,40.92,Male,Not Hispanic or Latino,Black or African American,0,0,23:59:00,54,21:21:00
+572840036,182,23.1,Female,Not Hispanic or Latino,White,0,0,00:29:00,100,16:12:00
+572840038,214,59.97,Female,Not Hispanic or Latino,Black or African American,0,0,11:02:00,34,12:50:00
+572840039,213,41.27,Female,Not Hispanic or Latino,White,27,0,18:50:00,35,16:20:00
+572840040,206,39.33,Male,Not Hispanic or Latino,Black or African American,16,0,16:26:00,67,14:19:00
+572840041,169,26.98,Male,Not Hispanic or Latino,White,0,0,18:20:00,162,22:38:00
+572840042,167,24.16,Male,Not Hispanic or Latino,Black or African American,0,0,20:02:00,271,20:37:00
+572840048,182,28.75,Male,Not Hispanic or Latino,Multiple race,0,0,08:13:00,78,18:08:00
+572840050,220,36.51,Male,Not Hispanic or Latino,White,0,0,21:29:00,129,11:20:00
+572840051,222,61.73,Female,Not Hispanic or Latino,White,0,0,18:40:00,54,13:56:00
+572840052,213,57.67,Male,Not Hispanic or Latino,Multiple race,0,0,11:41:00,31,18:16:00
+572840053,211,61.55,Male,Not Hispanic or Latino,Multiple race,0,0,18:32:00,62,17:05:00
+572840054,213,31.04,Male,Not Hispanic or Latino,Black or African American,0,0,11:28:00,116,12:56:00
+572840055,197,17.64,Male,Unknown,Unknown,0,0,11:34:00,21,17:50:00
+572840058,205,30.86,Female,Not Hispanic or Latino,Black or African American,0,0,01:35:00,160,16:38:00
+572840060,220,71.96,Male,Not Hispanic or Latino,White,1,0,02:53:00,38,16:49:00
+572840061,211,46.56,Female,Not Hispanic or Latino,White,0,0,07:59:00,61,16:20:00
+572840062,181,20.81,Male,Not Hispanic or Latino,White,0,0,18:02:00,153,14:04:00
+572840063,203,26.81,Female,Not Hispanic or Latino,White,0,0,13:01:00,72,16:00:00
+572840064,182,43.39,Male,Not Hispanic or Latino,White,0,0,23:15:00,121,13:43:00
+572840068,176,1.14,Male,Not Hispanic or Latino,White,1,0,02:59:00,109,13:23:00
+572840069,175,20.28,Male,Not Hispanic or Latino,Multiple race,0,0,18:10:00,293,19:01:00
+572840070,183,31.92,Female,Not Hispanic or Latino,Multiple race,0,0,12:39:00,70,19:48:00
+572840071,230,83.25,Female,Not Hispanic or Latino,White,0,0,16:07:00,18,13:37:00
+572840072,211,24.5,Male,Not Hispanic or Latino,Black or African American,0,0,01:32:00,107,17:08:00
+572840073,208,42.33,Female,Not Hispanic or Latino,Multiple race,0,0,13:15:00,57,16:37:00
+572840077,165,22.93,Female,Not Hispanic or Latino,Black or African American,22,0,09:06:00,166,12:33:00
+572840079,191,41.27,Male,Not Hispanic or Latino,White,0,0,21:15:00,41,16:00:00
+572840080,224,71.11,Female,Not Hispanic or Latino,Multiple race,2,0,15:52:00,33,17:30:00
+572840082,226,75.91,Male,Not Hispanic or Latino,White,0,0,20:04:00,19,13:45:00
+572840083,209,42.33,Female,Not Hispanic or Latino,White,0,0,02:09:00,57,13:58:00
+572840086,210,46.91,Female,Not Hispanic or Latino,White,0,0,04:47:00,54,16:15:00
+572840087,202,36.86,Female,Not Hispanic or Latino,Black or African American,0,0,21:37:00,99,17:10:00
+572840089,172,27.76,Female,Not Hispanic or Latino,Black or African American,0,0,17:29:00,115,14:32:00
+572840090,188,31.92,Male,Not Hispanic or Latino,White,0,0,22:03:00,107,16:41:00
+572840091,216,82.19,Male,Not Hispanic or Latino,White,0,0,18:46:00,34,12:49:00
+572840093,164,17.99,Male,Unknown,Unknown,0,0,20:19:00,97,18:34:00
+572840094,207,74.78,Male,Not Hispanic or Latino,White,0,0,10:01:00,68,16:27:00
+572840097,229,105.29,Female,No Information,No Information,0,0,01:53:00,33,15:50:00
+572840099,228,77.95,Male,Not Hispanic or Latino,Asian,0,0,23:42:00,31,16:07:00
+572840101,186,29.98,Male,Not Hispanic or Latino,White,0,0,12:38:00,171,16:50:00
+572840102,211,22.58,Male,Not Hispanic or Latino,Multiple race,0,0,12:24:00,62,16:50:00
+572840103,203,55.73,Male,Not Hispanic or Latino,White,23,0,12:28:00,40,15:00:00
+572840108,176,27.51,Male,Not Hispanic or Latino,Black or African American,0,0,04:57:00,130,10:33:00
+572840109,189,28.22,Male,Not Hispanic or Latino,White,0,0,10:32:00,165,14:23:00
+572840110,200,46.21,Male,Not Hispanic or Latino,White,0,0,11:47:00,117,13:41:00
+572840111,214,54.5,Male,Not Hispanic or Latino,White,0,0,11:10:00,51,15:35:00
+572840112,199,45.86,Female,Not Hispanic or Latino,White,0,0,16:34:00,76,15:48:00
+572840114,205,38.27,Female,Not Hispanic or Latino,White,0,0,11:14:00,63,13:14:00
+572840116,221,55.38,Male,Not Hispanic or Latino,Black or African American,0,0,05:44:00,28,18:41:00
+572840117,215,58.2,Female,Not Hispanic or Latino,Black or African American,0,0,13:55:00,37,14:20:00
+572840120,161,18.17,Female,Not Hispanic or Latino,White,0,0,21:54:00,199,13:04:00
+572840121,229,91.36,Male,Not Hispanic or Latino,White,0,0,12:25:00,42,13:30:00
+572840122,226,58.91,Male,Not Hispanic or Latino,White,0,0,12:57:00,119,18:43:00
+572840123,223,48.78,Male,Not Hispanic or Latino,White,0,0,04:53:00,47,16:10:00
+572840124,220,35.1,Female,Not Hispanic or Latino,White,0,0,04:18:00,81,15:12:00
+572840126,217,67.9,Male,Not Hispanic or Latino,White,1,0,02:46:00,33,12:41:00
+572840128,210,36.33,Female,Not Hispanic or Latino,White,0,0,07:33:00,48,12:33:00
+572840129,221,4.12,Male,Not Hispanic or Latino,White,1,0,00:39:00,14,07:15:00
+572840132,226,47.97,Female,Not Hispanic or Latino,White,0,0,17:40:00,44,09:25:00
+572840134,227,48.15,Female,Not Hispanic or Latino,Black or African American,0,0,02:13:00,22,15:16:00
+572840135,211,47.44,Male,Not Hispanic or Latino,Black or African American,0,0,10:40:00,52,17:15:00
+572840137,212,48.85,Male,Not Hispanic or Latino,White,0,0,13:20:00,36,14:22:00
+572840139,209,67.37,Female,Not Hispanic or Latino,White,0,0,21:03:00,81,15:11:00
+572840140,205,33.51,Male,Not Hispanic or Latino,White,0,0,15:46:00,2,20:30:00
+572840141,223,59.97,Female,Not Hispanic or Latino,White,0,0,05:46:00,4,00:18:00
+572840143,229,55.38,Female,Unknown,Unknown,0,0,19:58:00,49,19:35:00
+572840145,223,65.08,Male,Not Hispanic or Latino,Black or African American,0,0,09:01:00,23,13:41:00
+572840146,229,59.26,Male,Not Hispanic or Latino,White,0,0,00:16:00,22,18:24:00
+572840152,216,41.62,Male,Not Hispanic or Latino,White,0,0,12:32:00,35,11:39:00
+572840154,205,50.97,Male,Not Hispanic or Latino,Multiple race,0,0,04:34:00,102,18:33:00
+572840155,226,62.79,Female,Not Hispanic or Latino,Asian,0,0,14:42:00,143,15:31:00
+572840162,199,41.62,Male,Not Hispanic or Latino,Multiple race,0,0,10:52:00,62,17:23:00
+572840164,222,48.08,Male,Not Hispanic or Latino,Black or African American,0,0,13:50:00,46,18:22:00
+572840165,174,30.34,Female,Not Hispanic or Latino,White,0,0,08:56:00,151,14:39:00
+572840166,162,22.05,Male,Not Hispanic or Latino,Black or African American,0,0,03:06:00,243,17:37:00
+572840170,216,58.2,Male,Not Hispanic or Latino,Multiple race,0,0,10:41:00,82,14:57:00
+572840176,200,49.74,Male,Not Hispanic or Latino,Multiple race,1,0,03:05:00,57,19:43:00
+572840178,168,18.13,Male,Not Hispanic or Latino,Black or African American,0,0,06:38:00,306,11:45:00
+572840180,198,30.69,Male,Not Hispanic or Latino,White,0,0,02:20:00,64,18:47:00
+572840182,223,69.67,Male,Not Hispanic or Latino,Black or African American,0,0,04:44:00,24,15:24:00
+572840184,176,23.67,Female,Not Hispanic or Latino,White,0,0,19:52:00,198,17:24:00
+572840185,181,28.22,Male,Not Hispanic or Latino,Multiple race,1,0,03:00:00,94,16:05:00
+572840186,182,37.74,Male,No Information,No Information,0,0,23:27:00,0,17:09:00
+572840188,182,34.14,Male,Not Hispanic or Latino,Black or African American,0,0,16:20:00,123,17:35:00
+572840189,181,21.52,Male,Not Hispanic or Latino,White,0,0,14:01:00,222,17:19:00
+572840190,194,38.8,Female,Not Hispanic or Latino,White,0,0,12:15:00,88,17:38:00
+572840192,206,55.2,Female,Not Hispanic or Latino,White,0,0,16:07:00,41,15:53:00
+572840193,199,45.33,Female,Not Hispanic or Latino,White,0,0,13:19:00,61,16:15:00
+572840195,219,49.03,Female,Not Hispanic or Latino,Black or African American,1,0,12:29:00,494,11:34:00
+572840197,169,25.04,Male,Not Hispanic or Latino,White,0,0,19:09:00,263,17:26:00
+572840199,169,27.87,Male,Not Hispanic or Latino,White,13,0,16:19:00,160,14:40:00
+572840200,222,77.6,Female,Not Hispanic or Latino,White,0,0,19:07:00,25,14:00:00
+572840202,224,62.08,Female,Not Hispanic or Latino,White,3,0,15:21:00,24,20:50:00
+572840203,211,56.33,Male,Not Hispanic or Latino,White,0,0,17:13:00,45,14:26:00
+572840206,188,21.16,Male,Not Hispanic or Latino,White,0,0,04:03:00,138,15:11:00
+572840211,194,51.5,Male,Not Hispanic or Latino,White,0,0,16:30:00,126,16:14:00
+572840212,226,75.49,Female,Not Hispanic or Latino,White,0,0,05:30:00,54,15:15:00
+572840214,192,34.39,Male,Not Hispanic or Latino,White,0,0,11:26:00,91,14:55:00
+572840215,185,26.98,Male,Not Hispanic or Latino,White,0,0,16:29:00,92,18:00:00
+572840216,227,48.68,Male,Not Hispanic or Latino,White,1,0,01:22:00,43,17:20:00
+572840219,207,51.68,Female,Not Hispanic or Latino,White,1,0,01:48:00,64,18:12:00
+572840221,223,92.95,Male,Not Hispanic or Latino,Asian,0,0,19:00:00,53,13:02:00
+572840222,229,81.31,Female,Not Hispanic or Latino,White,0,0,03:03:00,15,16:21:00
+572840224,190,34.22,Male,Not Hispanic or Latino,White,0,0,16:26:00,74,15:49:00
+572840225,221,5.12,Male,Not Hispanic or Latino,White,0,0,12:46:00,43,11:21:00
+572840226,224,55.2,Female,Not Hispanic or Latino,American Indian or Alaska Native,0,0,19:06:00,31,14:50:00
+572840227,215,40.92,Male,Not Hispanic or Latino,White,0,0,05:47:00,66,16:21:00
+572840228,185,39.51,Female,Not Hispanic or Latino,White,4,0,08:54:00,299,14:43:00
+572840230,199,26.98,Female,Not Hispanic or Latino,White,0,0,15:40:00,110,20:47:00
+572840231,180,35.63,Female,Not Hispanic or Latino,White,0,0,14:43:00,67,14:51:00
+572840233,208,52.2,Female,Not Hispanic or Latino,Black or African American,0,0,07:38:00,44,18:43:00
+572840234,193,32.45,Male,Not Hispanic or Latino,Black or African American,0,0,10:50:00,79,16:12:00
+572840235,230,74.92,Female,Not Hispanic or Latino,White,0,0,17:31:00,16,14:16:00
+572840236,221,48.43,Female,Not Hispanic or Latino,Black or African American,0,0,05:47:00,81,15:41:00
+572840239,220,39.15,Female,Not Hispanic or Latino,White,0,0,17:58:00,58,18:42:00
+572840241,207,49.74,Female,Not Hispanic or Latino,White,0,0,13:58:00,62,14:37:00
+572840242,216,57.67,Male,Not Hispanic or Latino,White,0,0,04:55:00,86,18:05:00
+572840243,189,36.83,Male,Not Hispanic or Latino,White,0,0,11:59:00,74,19:56:00
+572840244,208,40.39,Female,Not Hispanic or Latino,White,0,0,17:04:00,72,15:06:00
+572840250,178,34.57,Male,Not Hispanic or Latino,White,0,0,15:33:00,293,17:26:00
+572840251,199,32.98,Female,Not Hispanic or Latino,Black or African American,0,0,10:51:00,67,14:55:00
+572840252,182,28.92,Female,Not Hispanic or Latino,Black or African American,0,0,03:00:00,94,16:34:00
+572840254,174,29.98,Female,Not Hispanic or Latino,White,0,0,03:31:00,51,17:41:00
+572840255,212,57.5,Male,Not Hispanic or Latino,White,0,0,06:43:00,118,12:00:00
+572840256,212,76.01,Male,Not Hispanic or Latino,White,0,0,05:02:00,124,15:32:00
+572840261,190,35.27,Female,Not Hispanic or Latino,White,0,0,07:43:00,122,18:02:00
+572840262,226,63.32,Female,Not Hispanic or Latino,White,0,0,16:35:00,41,22:30:00
+572840263,170,26.46,Male,Not Hispanic or Latino,White,0,0,19:25:00,113,14:04:00
+572840265,221,57.5,Male,Not Hispanic or Latino,Black or African American,0,0,00:49:00,22,22:41:00
+572840266,226,71.25,Female,Not Hispanic or Latino,White,0,0,23:16:00,33,16:13:00
+572840268,188,43.6,Male,Not Hispanic or Latino,White,0,0,06:56:00,105,16:22:00
+572840271,211,49.14,Male,Not Hispanic or Latino,Black or African American,0,0,14:14:00,40,16:40:00
+572840278,225,63.49,Male,Not Hispanic or Latino,White,0,0,18:14:00,28,13:46:00
+572840279,165,22.93,Female,Not Hispanic or Latino,White,0,0,03:09:00,6,22:38:00
+572840280,159,19.4,Female,Unknown,Unknown,7,0,11:00:00,37,16:17:00
+572840281,225,51.15,Female,Not Hispanic or Latino,Black or African American,6,0,23:38:00,23,15:04:00
+572840282,207,37.92,Male,Not Hispanic or Latino,White,0,0,15:41:00,67,18:45:00
+572840283,164,18.84,Female,Not Hispanic or Latino,Black or African American,0,0,22:43:00,3,17:19:00
+572840285,175,27.16,Male,Not Hispanic or Latino,White,0,0,13:17:00,4,21:21:00
+572840286,212,51.04,Female,Not Hispanic or Latino,White,0,0,12:09:00,31,15:10:00
+572840287,210,59.01,Female,Not Hispanic or Latino,White,0,0,15:10:00,34,16:56:00
+572840291,207,57.85,Male,Not Hispanic or Latino,White,0,0,11:36:00,75,15:03:00
+572840292,220,63.49,Male,Not Hispanic or Latino,Black or African American,0,0,16:07:00,57,15:42:00
+572840295,204,45.5,Female,Not Hispanic or Latino,Black or African American,0,0,20:07:00,34,18:56:00
+572840296,217,58.55,Male,Not Hispanic or Latino,White,1,0,03:02:00,37,12:51:00
+572840298,195,44.27,Female,Not Hispanic or Latino,White,0,0,20:13:00,104,17:50:00
+572840299,168,20.46,Female,Not Hispanic or Latino,Black or African American,22,0,11:04:00,151,18:00:00
+572840300,217,58.55,Female,Not Hispanic or Latino,White,0,0,21:12:00,88,15:09:00
+572840302,189,34.22,Female,Not Hispanic or Latino,Multiple race,2,0,19:56:00,96,13:49:00
+572840303,170,25.04,Female,Not Hispanic or Latino,White,0,0,19:22:00,176,12:13:00
+572840305,229,62.43,Female,Not Hispanic or Latino,White,0,0,01:54:00,35,13:22:00
+572840306,225,62.79,Male,Not Hispanic or Latino,White,0,0,15:25:00,22,16:32:00
+572840307,174,26.98,Male,Hispanic or Latino,Unknown,0,0,20:53:00,93,17:07:00
+572840308,224,68.25,Male,Not Hispanic or Latino,White,0,0,13:20:00,71,20:14:00
+572840309,223,23.81,Female,Not Hispanic or Latino,White,0,0,10:04:00,109,13:42:00
+572840310,189,33.86,Female,Not Hispanic or Latino,Black or African American,26,0,00:49:00,45,15:54:00
+572840312,175,20.46,Male,Not Hispanic or Latino,Multiple race,0,0,14:55:00,186,18:08:00
+572840313,199,35.8,Female,Not Hispanic or Latino,White,0,0,05:29:00,82,14:54:00
+572840314,195,38.27,Female,Not Hispanic or Latino,White,0,0,14:33:00,82,13:12:00
+572840315,227,44.44,Male,Not Hispanic or Latino,Black or African American,0,0,12:43:00,32,14:13:00
+572840316,204,55.03,Male,Not Hispanic or Latino,White,0,0,23:08:00,71,16:53:00
+572840317,203,38.62,Male,Not Hispanic or Latino,White,0,0,15:15:00,100,15:41:00
+572840318,184,20.64,Male,Not Hispanic or Latino,White,0,0,18:51:00,213,19:02:00
+572840319,159,21.52,Female,Not Hispanic or Latino,White,0,0,06:56:00,0,16:03:00
+572840321,181,27.16,Female,Not Hispanic or Latino,Black or African American,0,0,17:55:00,112,22:12:00
+572840322,199,38.98,Male,Not Hispanic or Latino,White,0,0,10:03:00,80,17:32:00
+572840324,215,57.14,Male,Not Hispanic or Latino,White,0,0,06:18:00,30,18:50:00
+572840325,183,31.39,Male,Not Hispanic or Latino,White,0,0,05:02:00,107,16:26:00
+572840326,199,50.26,Male,Not Hispanic or Latino,White,0,0,09:48:00,70,15:22:00
+572840328,181,32.8,Male,Not Hispanic or Latino,Multiple race,5,0,14:30:00,102,17:33:00
+572840329,225,67.55,Male,Not Hispanic or Latino,White,0,0,15:50:00,22,16:32:00
+572840334,211,54,Male,Not Hispanic or Latino,White,0,0,17:04:00,34,19:17:00
+572840336,198,33.51,Male,Not Hispanic or Latino,White,0,0,10:44:00,138,13:15:00
+572840340,164,20.28,Female,Not Hispanic or Latino,Black or African American,0,0,20:29:00,161,19:20:00
+572840341,218,44.8,Female,Not Hispanic or Latino,White,0,0,18:37:00,73,19:09:00
+572840342,176,23.28,Female,Not Hispanic or Latino,Black or African American,0,0,20:42:00,27,02:15:00
+572840344,228,67.02,Female,Unknown,Unknown,0,0,11:40:00,1,17:00:00
+572840347,228,72.13,Female,Not Hispanic or Latino,White,0,0,22:55:00,16,13:18:00
+572840348,164,18.52,Male,Unknown,Unknown,0,0,05:31:00,6,03:30:00
+572840349,220,31.04,Female,Not Hispanic or Latino,White,0,0,05:37:00,34,13:03:00
+572840352,225,66.14,Female,Not Hispanic or Latino,Black or African American,0,0,13:43:00,33,15:22:00
+572840357,224,71.25,Female,Not Hispanic or Latino,White,0,0,22:05:00,34,15:30:00
+572840358,191,34.92,Male,Not Hispanic or Latino,White,0,0,03:23:00,69,12:50:00
+572840359,210,48.4,Male,Not Hispanic or Latino,Multiple race,12,0,10:41:00,10,14:14:00
+572840360,229,58.91,Female,Not Hispanic or Latino,White,0,0,21:14:00,23,17:19:00
+572840362,230,58.55,Female,Not Hispanic or Latino,White,7,0,02:42:00,8,13:37:00
+572840363,213,50.44,Male,Not Hispanic or Latino,Black or African American,0,0,04:09:00,32,17:27:00
+572840365,163,27.34,Male,Not Hispanic or Latino,White,0,0,08:42:00,7,21:55:00
+572840367,220,64.9,Female,Not Hispanic or Latino,White,0,0,22:20:00,25,18:10:00
+572840369,192,35.63,Female,Unknown,Unknown,0,0,16:17:00,0,18:54:00
+572840373,218,53.93,Male,Unknown,Unknown,0,0,03:41:00,28,15:36:00
+572840374,211,17.64,Female,Not Hispanic or Latino,White,0,0,09:05:00,4,16:18:00
+572840375,203,52.03,Female,Not Hispanic or Latino,White,0,0,19:39:00,53,13:00:00
+572840377,229,59.97,Male,Not Hispanic or Latino,White,1,0,22:31:00,28,14:40:00
+572840379,175,19,Male,Not Hispanic or Latino,White,0,0,13:41:00,216,13:14:00
+572840380,176,33.51,Male,Not Hispanic or Latino,White,1,0,00:55:00,752,16:07:00
+572840381,212,43.74,Female,Not Hispanic or Latino,White,0,0,11:14:00,62,15:57:00
+572840382,198,43.38,Male,Not Hispanic or Latino,Black or African American,0,0,03:27:00,97,19:08:00
+572840385,224,59.61,Female,Not Hispanic or Latino,White,0,0,14:34:00,1,09:30:00
+572840388,161,17.64,Female,Not Hispanic or Latino,White,0,0,13:51:00,179,11:25:00
+572840389,201,29.67,Female,Not Hispanic or Latino,Black or African American,0,0,06:44:00,100,14:13:00
+572840390,222,68.25,Male,Hispanic or Latino,White,0,0,04:51:00,24,16:00:00
+572840391,223,74.43,Female,Not Hispanic or Latino,Multiple race,1,0,15:34:00,86,17:27:00
+572840392,176,22.22,Male,Not Hispanic or Latino,White,0,0,06:20:00,133,16:50:00
+572840393,216,44.97,Female,Not Hispanic or Latino,Black or African American,0,0,23:56:00,35,17:15:00
+572840394,182,32.1,Female,Not Hispanic or Latino,White,0,0,10:07:00,84,13:26:00
+572840396,206,25.04,Female,Not Hispanic or Latino,White,0,0,20:04:00,121,20:00:00
+572840399,203,45.75,Female,Not Hispanic or Latino,White,0,0,13:56:00,50,19:17:00
+572840400,213,41.98,Male,Not Hispanic or Latino,White,0,0,23:24:00,140,14:37:00
+572840402,230,45.75,Female,Not Hispanic or Latino,White,0,0,10:51:00,21,15:51:00
+572840403,193,29.63,Male,Not Hispanic or Latino,White,0,0,17:31:00,85,19:11:00
+572840404,183,36.33,Male,Not Hispanic or Latino,White,2,0,12:52:00,144,22:09:00
+572840405,191,38.8,Male,Not Hispanic or Latino,White,0,0,03:31:00,69,12:50:00
+572840408,196,24.87,Female,Not Hispanic or Latino,White,0,0,12:17:00,390,15:22:00
+572840409,177,26.46,Male,Not Hispanic or Latino,Black or African American,5,0,19:52:00,118,17:10:00
+572840410,177,34.57,Female,Not Hispanic or Latino,White,0,0,23:04:00,113,14:02:00
+572840411,180,37.04,Male,Hispanic or Latino,White,0,0,14:41:00,125,18:28:00
+572840413,195,42.33,Male,Not Hispanic or Latino,White,0,0,16:00:00,60,20:20:00
+572840414,210,40.18,Male,Hispanic or Latino,White,0,0,11:53:00,77,14:57:00
+572840416,217,40.04,Male,Not Hispanic or Latino,Black or African American,0,0,16:11:00,159,12:00:00
+572840420,225,40.92,Female,Not Hispanic or Latino,White,0,0,20:04:00,106,15:34:00
+572840423,214,49.03,Male,Not Hispanic or Latino,Multiple race,0,0,11:51:00,49,14:41:00
+572840424,189,39.68,Male,Not Hispanic or Latino,Black or African American,0,0,21:46:00,138,13:55:00
+572840425,218,66.21,Male,Not Hispanic or Latino,White,0,0,23:07:00,48,15:31:00
+572840426,195,40.21,Male,Not Hispanic or Latino,Black or African American,0,0,04:21:00,79,15:51:00
+572840427,198,27.16,Male,Not Hispanic or Latino,Black or African American,0,0,19:34:00,262,10:52:00
+572840428,160,23.28,Female,Not Hispanic or Latino,White,0,0,13:55:00,1,06:30:00
+572840430,163,22.05,Male,Not Hispanic or Latino,Black or African American,0,0,00:22:00,144,15:47:00
+572840431,211,54.85,Male,Not Hispanic or Latino,Black or African American,0,0,02:37:00,39,15:52:00
+572840432,189,28.75,Male,Not Hispanic or Latino,White,0,0,03:27:00,87,12:59:00
+572840433,206,62.79,Female,Not Hispanic or Latino,White,0,0,13:01:00,49,17:12:00
+572840435,215,40.56,Female,Not Hispanic or Latino,Black or African American,0,0,07:22:00,50,17:53:00
+572840437,218,67.73,Male,Not Hispanic or Latino,White,1,0,01:56:00,55,15:40:00
+572840442,222,64.2,Male,Not Hispanic or Latino,Black or African American,0,0,11:14:00,27,16:31:00
+572840447,165,18.34,Female,Not Hispanic or Latino,Black or African American,0,0,14:13:00,435,13:30:00
+572840449,221,54.67,Female,Not Hispanic or Latino,White,0,0,00:18:00,34,17:48:00
+572840450,211,48.85,Male,Not Hispanic or Latino,American Indian or Alaska Native,0,0,19:13:00,56,17:48:00
+572840451,186,35.1,Male,Not Hispanic or Latino,Black or African American,0,0,23:26:00,105,12:35:00
+572840453,220,56.44,Female,Unknown,Unknown,0,0,16:05:00,28,18:55:00
+572840454,226,38.27,Male,Not Hispanic or Latino,White,0,0,07:12:00,68,12:58:00
+572840456,210,39.15,Female,Not Hispanic or Latino,American Indian or Alaska Native,0,0,10:08:00,74,13:35:00
+572840458,176,29.63,Male,Not Hispanic or Latino,White,0,0,22:38:00,134,16:51:00
+572840459,198,38.98,Female,Hispanic or Latino,Unknown,0,0,16:15:00,54,19:46:00
+572840462,222,58.55,Female,Not Hispanic or Latino,White,12,0,11:02:00,40,16:01:00
+572840463,227,57.5,Male,Not Hispanic or Latino,White,2,0,13:54:00,17,16:41:00
+572840464,207,32.45,Male,Not Hispanic or Latino,White,0,0,17:41:00,64,14:52:00
+572840465,224,63.14,Male,Not Hispanic or Latino,White,0,0,22:43:00,36,11:59:00
+572840469,195,42.15,Male,Not Hispanic or Latino,White,0,0,12:39:00,58,13:25:00
+572840471,225,52.56,Female,Not Hispanic or Latino,Black or African American,6,0,23:36:00,18,16:27:00
+572840473,171,20.11,Female,Not Hispanic or Latino,Black or African American,0,0,03:18:00,108,19:18:00
+572840475,217,55.38,Female,Not Hispanic or Latino,Multiple race,0,0,05:53:00,30,22:11:00
+572840476,189,33.51,Male,Not Hispanic or Latino,White,0,0,08:36:00,103,13:13:00
+572840477,225,60.88,Male,Not Hispanic or Latino,White,0,0,15:51:00,55,15:27:00
+572840478,223,52.03,Female,Not Hispanic or Latino,White,0,0,00:58:00,26,16:21:00
+572840479,170,17.64,Male,Not Hispanic or Latino,White,0,0,21:18:00,226,13:10:00
+572840480,219,61.55,Male,Not Hispanic or Latino,White,0,0,19:04:00,57,16:57:00
+572840481,217,101.52,Male,Not Hispanic or Latino,Black or African American,0,0,21:33:00,37,16:08:00
+572840482,182,23.1,Female,Not Hispanic or Latino,Multiple race,0,0,17:39:00,214,16:11:00
+572840483,192,35.63,Male,Not Hispanic or Latino,Black or African American,8,0,12:25:00,81,13:43:00
+572840484,214,33.51,Female,Not Hispanic or Latino,White,0,0,17:53:00,63,02:31:00
+572840486,188,43.56,Female,Not Hispanic or Latino,Multiple race,0,0,20:55:00,60,17:12:00
+572840487,197,43.39,Male,Not Hispanic or Latino,Black or African American,0,0,22:51:00,53,15:21:00
+572840490,228,59.08,Male,Not Hispanic or Latino,White,0,0,09:42:00,31,16:18:00
+572840492,221,45.86,Male,Not Hispanic or Latino,White,0,0,21:17:00,36,20:07:00
+572840494,224,66.56,Female,Not Hispanic or Latino,White,0,0,13:29:00,27,12:37:00
+572840495,227,74.96,Male,Not Hispanic or Latino,Black or African American,0,0,03:08:00,43,13:51:00
+572840496,182,32.45,Male,Not Hispanic or Latino,White,0,0,23:02:00,90,20:56:00
+572840497,171,19.58,Female,Unknown,Unknown,0,0,13:29:00,10,09:17:00
+572840498,194,31.57,Female,Not Hispanic or Latino,Black or African American,0,0,01:10:00,81,16:54:00
+572840500,167,24.69,Male,Not Hispanic or Latino,White,0,0,01:48:00,387,13:34:00
+572840501,226,80.42,Female,Not Hispanic or Latino,White,0,0,12:17:00,44,09:25:00
+572840502,227,52.84,Male,Not Hispanic or Latino,White,0,0,17:33:00,70,12:45:00
+572840504,211,34.74,Female,Not Hispanic or Latino,White,0,0,20:07:00,68,15:07:00
+572840506,205,41.62,Male,Not Hispanic or Latino,White,0,0,03:55:00,91,15:33:00
+572840507,193,21.34,Female,Not Hispanic or Latino,Multiple race,0,0,11:36:00,125,12:42:00
+572840508,196,27.51,Male,Not Hispanic or Latino,White,26,0,19:02:00,49,18:34:00
+572840510,189,34.22,Female,Not Hispanic or Latino,White,0,0,17:15:00,126,16:46:00
+572840511,205,54.67,Male,Not Hispanic or Latino,White,0,0,09:04:00,8,16:08:00
+572840514,170,20.49,Female,Not Hispanic or Latino,White,0,0,11:29:00,118,19:55:00
+572840516,225,4.13,Male,Not Hispanic or Latino,White,0,0,15:48:00,34,13:32:00
+572840520,224,81.48,Male,Not Hispanic or Latino,White,0,0,12:16:00,30,15:38:00
+572840521,166,26.63,Male,Not Hispanic or Latino,Black or African American,0,0,16:48:00,192,15:22:00
+572840524,197,37.57,Male,Not Hispanic or Latino,Multiple race,0,0,18:52:00,63,12:55:00
+572840526,224,65.86,Male,Not Hispanic or Latino,Black or African American,11,0,19:51:00,9,13:35:00
+572840527,186,33.86,Male,Not Hispanic or Latino,Black or African American,0,0,03:37:00,100,16:55:00
+572840534,183,31.92,Female,Not Hispanic or Latino,Black or African American,0,0,13:51:00,112,21:54:00
+572840535,230,75.13,Male,Not Hispanic or Latino,White,0,0,13:58:00,27,18:52:00
+572840542,223,78.94,Female,Not Hispanic or Latino,White,5,0,15:55:00,27,16:37:00
+572840544,192,45.33,Male,Not Hispanic or Latino,Black or African American,0,0,01:54:00,56,13:08:00
+572840546,192,37.74,Male,Not Hispanic or Latino,White,0,0,22:12:00,108,15:09:00
+572840548,177,28.22,Female,Not Hispanic or Latino,White,0,0,13:49:00,140,14:11:00
+572840549,201,47.97,Male,Not Hispanic or Latino,White,0,0,14:15:00,70,22:15:00
+572840551,195,44.8,Male,Not Hispanic or Latino,White,0,0,07:01:00,10,18:05:00
+572840552,217,45.15,Male,Not Hispanic or Latino,Black or African American,0,0,21:02:00,38,16:15:00
+572840553,217,37.39,Female,Not Hispanic or Latino,Multiple race,0,0,08:43:00,6,14:02:00
+572840554,204,45.5,Female,Not Hispanic or Latino,Black or African American,0,0,20:14:00,37,15:10:00
+572840558,178,28.57,Male,Unknown,Unknown,1,0,13:25:00,2,14:15:00
+572840559,184,26.46,Female,Not Hispanic or Latino,Black or African American,5,0,17:05:00,100,15:56:00
+572840561,173,15.52,Male,Not Hispanic or Latino,Black or African American,0,0,07:35:00,46,01:45:00
+572840564,162,17.28,Male,Not Hispanic or Latino,Black or African American,7,0,22:01:00,6,02:23:00
+572840567,227,34.39,Male,Not Hispanic or Latino,Black or African American,0,0,21:40:00,61,15:58:00
+572840569,197,37.39,Male,Not Hispanic or Latino,White,0,0,17:02:00,131,12:11:00
+572840575,190,39.15,Male,Not Hispanic or Latino,White,0,0,17:03:00,104,14:59:00
+572840580,197,24.16,Female,Not Hispanic or Latino,Black or African American,0,0,16:12:00,239,16:54:00
+572840581,166,26.46,Male,Not Hispanic or Latino,Black or African American,6,0,04:04:00,213,18:55:00
+572840582,197,24.34,Male,Not Hispanic or Latino,White,0,0,08:38:00,164,09:25:00
+572840583,173,24.34,Male,Not Hispanic or Latino,White,0,0,04:03:00,127,13:05:00
+572840588,173,22.22,Male,Not Hispanic or Latino,White,0,0,23:37:00,65,23:00:00
+572840589,182,26.81,Female,Not Hispanic or Latino,White,0,0,14:04:00,103,17:40:00
+572840590,161,18.7,Male,Not Hispanic or Latino,White,0,0,22:41:00,147,17:22:00
+572840591,175,23.63,Female,Not Hispanic or Latino,White,0,0,12:49:00,240,13:12:00
+572840592,222,62.79,Female,Not Hispanic or Latino,White,13,0,12:17:00,18,15:54:00
+572840594,196,40.64,Male,Not Hispanic or Latino,Multiple race,0,0,04:18:00,129,16:30:00
+572840595,188,38.1,Male,Not Hispanic or Latino,White,0,0,21:23:00,114,19:30:00
+572840598,221,55.73,Female,Not Hispanic or Latino,Black or African American,0,0,14:49:00,60,13:11:00
+572840599,223,61.91,Female,Not Hispanic or Latino,Black or African American,0,0,09:18:00,28,14:05:00
+572840600,210,57.14,Male,Not Hispanic or Latino,White,0,0,19:52:00,81,17:22:00
+572840602,170,20.99,Male,Not Hispanic or Latino,White,0,0,21:24:00,141,19:00:00
+572840604,174,26.46,Female,Not Hispanic or Latino,White,0,0,00:38:00,173,12:59:00
+572840605,156,19.4,Male,Not Hispanic or Latino,White,0,0,14:54:00,8,12:08:00
+572840606,195,48.85,Female,Not Hispanic or Latino,Black or African American,0,0,20:43:00,52,13:28:00
+572840607,169,20.81,Male,Not Hispanic or Latino,Multiple race,0,0,17:02:00,18,14:35:00
+572840608,222,55.56,Male,Not Hispanic or Latino,White,0,0,01:10:00,26,14:59:00
+572840610,209,42.86,Male,Not Hispanic or Latino,Multiple race,0,0,12:44:00,60,15:43:00
+572840611,197,45.61,Female,Not Hispanic or Latino,White,0,0,23:14:00,79,14:52:00
+572840612,185,18.7,Male,Not Hispanic or Latino,Multiple race,0,0,21:49:00,226,15:03:00
+572840614,211,55.03,Female,Not Hispanic or Latino,White,0,0,20:03:00,47,13:20:00
+572840615,190,41.45,Female,Not Hispanic or Latino,Multiple race,0,0,04:01:00,193,17:52:00
+572840617,196,41.98,Male,Not Hispanic or Latino,Black or African American,0,0,17:07:00,85,13:50:00
+572840620,158,23.28,Male,Unknown,Unknown,0,0,11:16:00,9,23:47:00
+572840621,219,51.15,Female,Not Hispanic or Latino,White,0,0,15:28:00,65,15:56:00
+572840623,176,28.75,Female,Not Hispanic or Latino,White,0,0,19:57:00,124,19:41:00
+572840625,167,21.16,Male,Not Hispanic or Latino,Black or African American,0,0,06:59:00,242,14:10:00
+572840626,188,29.63,Female,Not Hispanic or Latino,Black or African American,11,0,12:57:00,362,18:45:00
+572840628,202,49.74,Female,Not Hispanic or Latino,Black or African American,0,0,22:48:00,57,15:04:00
+572840630,175,22.93,Male,Not Hispanic or Latino,White,0,0,12:06:00,161,16:30:00
+572840632,205,20.11,Male,Not Hispanic or Latino,White,0,0,11:24:00,108,13:42:00
+572840633,168,23.28,Female,Not Hispanic or Latino,White,0,0,16:22:00,131,11:06:00
+572840634,219,45.68,Male,Not Hispanic or Latino,White,0,0,20:51:00,37,14:52:00
+572840637,194,39.15,Female,Not Hispanic or Latino,White,0,0,14:09:00,62,14:48:00
+572840638,204,57.67,Female,Not Hispanic or Latino,White,0,0,11:00:00,55,15:48:00
+572840639,177,30.34,Female,Not Hispanic or Latino,Asian,0,0,13:32:00,23,23:00:00
+572840640,217,67.06,Male,Not Hispanic or Latino,White,1,0,01:30:00,38,11:51:00
+572840641,187,27.16,Male,Not Hispanic or Latino,Black or African American,28,0,16:55:00,96,17:24:00
+572840642,218,49.38,Male,Not Hispanic or Latino,Black or African American,0,0,04:00:00,34,16:56:00
+572840643,216,52.91,Male,Not Hispanic or Latino,Multiple race,0,0,23:51:00,30,14:39:00
+572840644,224,77.6,Male,Not Hispanic or Latino,White,0,0,06:01:00,70,17:47:00
+572840646,217,52.91,Female,Not Hispanic or Latino,White,0,0,20:38:00,33,14:50:00
+572840648,193,28.92,Male,Not Hispanic or Latino,Black or African American,0,0,23:20:00,80,17:51:00
+572840649,212,57.14,Male,Not Hispanic or Latino,Black or African American,0,0,13:49:00,74,14:50:00
+572840651,204,57.5,Male,Not Hispanic or Latino,White,0,0,11:15:00,66,13:45:00
+572840652,185,40.39,Female,Not Hispanic or Latino,Black or African American,0,0,11:06:00,83,12:03:00
+572840655,183,32.98,Male,Not Hispanic or Latino,Black or African American,0,0,13:56:00,48,06:15:00
+572840656,181,32.1,Male,Not Hispanic or Latino,White,0,0,22:14:00,89,19:04:00
+572840658,229,71.25,Male,Not Hispanic or Latino,White,0,0,07:33:00,27,12:07:00
+572840659,178,27.16,Female,Not Hispanic or Latino,White,0,0,13:35:00,115,15:39:00
+572840664,188,40.21,Female,Not Hispanic or Latino,Multiple race,0,0,20:46:00,54,16:15:00
+572840665,167,20.64,Female,Not Hispanic or Latino,Multiple race,0,0,03:55:00,201,12:36:00
+572840666,184,20.81,Male,Not Hispanic or Latino,White,0,0,18:50:00,200,15:50:00
+572840667,184,29.81,Male,Hispanic or Latino,White,0,0,11:39:00,174,14:05:00
+572840668,176,36.86,Male,Not Hispanic or Latino,White,0,0,10:15:00,285,14:25:00
+572840671,214,40.04,Female,Not Hispanic or Latino,White,0,0,18:29:00,120,14:16:00
+572840673,215,53.26,Female,Not Hispanic or Latino,White,23,0,18:25:00,16,15:48:00
+572840677,229,61.91,Female,Not Hispanic or Latino,White,0,0,06:54:00,115,19:43:00
+572840679,177,28.75,Female,Not Hispanic or Latino,Asian,0,0,14:00:00,126,21:20:00
+572840680,214,62.08,Male,Not Hispanic or Latino,White,0,0,06:45:00,44,15:12:00
+572840681,177,28.22,Male,Not Hispanic or Latino,Multiple race,0,0,12:41:00,129,13:59:00
+572840685,205,40.74,Female,Not Hispanic or Latino,Asian,0,0,16:32:00,56,18:46:00
+572840687,165,13.76,Male,Not Hispanic or Latino,Black or African American,0,0,14:41:00,138,07:19:00
+572840689,170,26.81,Male,Unknown,Unknown,0,0,07:33:00,7,09:28:00
+572840690,218,71.08,Male,Not Hispanic or Latino,White,0,0,21:13:00,22,12:30:00
+572840691,219,61.02,Female,Not Hispanic or Latino,White,0,0,22:01:00,43,15:13:00
+572840692,198,45.33,Male,Not Hispanic or Latino,American Indian or Alaska Native,0,0,16:20:00,76,15:52:00
+572840695,213,49.03,Male,Not Hispanic or Latino,White,0,0,10:48:00,57,10:52:00
+572840696,219,50.62,Female,Not Hispanic or Latino,White,0,0,10:07:00,92,20:02:00
+572840700,219,67.37,Male,Not Hispanic or Latino,White,0,0,03:40:00,32,13:45:00
+572840702,154,13.93,Female,Not Hispanic or Latino,White,0,0,23:43:00,18,16:49:00
+572840704,229,48.15,Female,Not Hispanic or Latino,White,0,0,00:21:00,26,14:42:00
+572840705,220,50.09,Female,Not Hispanic or Latino,White,6,0,19:38:00,38,10:30:00
+572840707,230,76.19,Male,Not Hispanic or Latino,White,1,0,03:30:00,7,16:47:00
+572840710,214,59.26,Female,Not Hispanic or Latino,White,0,0,22:24:00,27,16:00:00
+572840711,221,67.02,Male,Not Hispanic or Latino,White,0,0,09:15:00,45,14:32:00
+572840712,173,26.28,Male,Not Hispanic or Latino,Multiple race,0,0,10:57:00,142,17:32:00
+572840713,197,43.99,Female,Not Hispanic or Latino,White,0,0,22:33:00,58,16:04:00
+572840714,211,34.39,Male,Not Hispanic or Latino,Black or African American,10,0,06:04:00,90,18:56:00
+572840717,214,54.32,Male,Not Hispanic or Latino,Multiple race,0,0,11:52:00,37,12:14:00
+572840719,194,29.28,Male,Not Hispanic or Latino,White,0,0,17:45:00,104,14:35:00
+572840721,211,40.04,Female,Not Hispanic or Latino,Black or African American,0,0,20:28:00,35,16:17:00
+572840724,190,31.04,Male,Not Hispanic or Latino,Black or African American,0,0,22:36:00,10,06:00:00
+572840725,193,39.33,Male,Not Hispanic or Latino,White,0,0,17:30:00,61,19:42:00
+572840727,217,59.44,Male,Not Hispanic or Latino,White,1,0,00:09:00,22,13:28:00
+572840729,220,52.38,Male,Not Hispanic or Latino,Black or African American,0,0,22:52:00,27,18:27:00
+572840730,180,33.69,Male,Not Hispanic or Latino,Black or African American,3,0,05:41:00,101,19:12:00
+572840731,206,43.56,Male,Not Hispanic or Latino,White,0,0,18:39:00,88,17:05:00
+572840732,226,44.09,Female,Not Hispanic or Latino,Multiple race,0,0,01:54:00,92,15:25:00
+572840733,228,53.62,Male,Not Hispanic or Latino,White,1,0,01:09:00,27,15:20:00
+572840734,215,49.91,Male,Not Hispanic or Latino,White,0,0,14:35:00,130,15:29:00
+572840735,208,49.38,Male,Not Hispanic or Latino,Black or African American,0,0,03:05:00,66,16:47:00
+572840736,196,37.04,Female,Not Hispanic or Latino,White,0,0,18:31:00,100,15:32:00
+572840740,229,85.19,Male,Not Hispanic or Latino,White,0,0,20:37:00,35,15:30:00
+572840741,222,56.4,Female,Not Hispanic or Latino,Multiple race,0,0,17:47:00,59,14:20:00
+572840742,186,29.28,Female,Not Hispanic or Latino,White,0,0,14:30:00,3,06:59:00
+572840744,162,20.99,Male,Not Hispanic or Latino,Black or African American,7,0,11:15:00,157,15:03:00
+572840745,204,50.79,Male,Not Hispanic or Latino,White,0,0,14:30:00,69,17:07:00
+572840750,160,21.34,Female,Not Hispanic or Latino,White,1,0,00:34:00,12,20:32:00
+572840754,228,79.54,Male,Not Hispanic or Latino,White,0,0,21:18:00,37,16:25:00
+572840755,222,72.59,Male,Unknown,Unknown,0,0,12:20:00,6,19:45:00
+572840756,229,80.78,Female,Not Hispanic or Latino,White,0,0,19:01:00,18,13:58:00
+572840757,202,52.91,Male,Not Hispanic or Latino,White,1,0,00:49:00,47,12:52:00
+572840758,226,46.91,Male,Not Hispanic or Latino,White,0,0,00:13:00,80,14:34:00
+572840762,174,28.57,Male,Unknown,Unknown,0,0,20:35:00,3,02:17:00
+572840764,190,37.92,Female,Not Hispanic or Latino,White,0,0,07:40:00,113,16:15:00
+572840765,205,37.39,Female,Not Hispanic or Latino,Black or African American,0,0,20:09:00,45,15:01:00
+572840766,225,50.79,Female,Not Hispanic or Latino,White,0,0,08:10:00,45,13:20:00
+572840767,225,64.55,Female,Not Hispanic or Latino,White,0,0,18:25:00,37,16:35:00
+572840770,167,22.22,Female,Not Hispanic or Latino,White,0,0,16:32:00,2,07:39:00
+572840771,194,34.92,Female,Not Hispanic or Latino,White,0,0,12:14:00,110,13:49:00
+572840774,222,53.09,Female,Not Hispanic or Latino,White,0,0,00:36:00,35,18:10:00
+572840775,223,59.97,Male,Not Hispanic or Latino,Black or African American,0,0,18:03:00,32,18:21:00
+572840776,221,40.21,Male,Not Hispanic or Latino,Unknown,0,0,09:58:00,22,02:45:00
+572840779,161,15.52,Male,Not Hispanic or Latino,Multiple race,0,0,09:06:00,6,15:01:00
+572840780,211,43.74,Female,Not Hispanic or Latino,Black or African American,0,0,08:13:00,43,18:15:00
+572840782,196,38.45,Male,Unknown,Unknown,0,0,07:31:00,5,16:42:00
+572840784,203,56.61,Female,Not Hispanic or Latino,White,1,0,00:08:00,42,18:38:00
+572840785,203,35.27,Female,Not Hispanic or Latino,White,0,0,18:51:00,2,01:52:00
+572840791,218,60.32,Male,Not Hispanic or Latino,Black or African American,0,0,22:47:00,22,14:18:00
+572840792,209,42.86,Male,Not Hispanic or Latino,Multiple race,0,0,09:35:00,121,17:22:00
+572840798,226,65.5,Male,Not Hispanic or Latino,Multiple race,1,0,05:25:00,18,13:05:00
+572840802,171,21.16,Female,Not Hispanic or Latino,Black or African American,14,0,16:02:00,184,15:25:00
+572840803,174,25.04,Female,Not Hispanic or Latino,Multiple race,11,0,01:37:00,139,15:33:00
+572840804,213,33.69,Male,Not Hispanic or Latino,White,0,0,08:31:00,95,13:20:00
+572840805,192,40.56,Male,Unknown,Unknown,0,0,10:44:00,33,17:18:00
+572840808,229,68.54,Male,Not Hispanic or Latino,White,0,0,14:40:00,31,15:27:00
+572840810,212,37.39,Female,Not Hispanic or Latino,White,0,0,05:39:00,78,13:47:00
+572840811,182,17.46,Female,Not Hispanic or Latino,White,0,0,00:34:00,153,16:10:00
+572840813,210,32.98,Male,Not Hispanic or Latino,White,0,0,15:06:00,61,15:09:00
+572840816,224,61.55,Female,Not Hispanic or Latino,American Indian or Alaska Native,0,0,19:19:00,27,16:42:00
+572840822,189,31.39,Male,Not Hispanic or Latino,Black or African American,5,0,14:31:00,387,11:21:00
+572840825,166,25.04,Male,Not Hispanic or Latino,Black or African American,0,0,01:00:00,146,15:36:00
+572840827,230,58.55,Female,Not Hispanic or Latino,White,0,0,05:26:00,112,14:30:00
+572840828,211,45.15,Male,Not Hispanic or Latino,Multiple race,0,0,01:06:00,54,14:24:00
+572840830,222,72.84,Male,Not Hispanic or Latino,Black or African American,0,0,10:34:00,42,15:41:00
+572840831,186,38.8,Male,Not Hispanic or Latino,Multiple race,0,0,13:18:00,99,19:46:00
+572840833,184,41.62,Male,Not Hispanic or Latino,White,27,0,13:27:00,19,11:39:00
+572840834,218,47.27,Male,Not Hispanic or Latino,Black or African American,0,0,19:33:00,94,13:54:00
+572840836,229,64.9,Female,Not Hispanic or Latino,White,0,0,03:01:00,19,21:33:00
+572840840,188,34.22,Male,Not Hispanic or Latino,Black or African American,0,0,03:53:00,129,16:50:00
+572840841,225,52.91,Male,Not Hispanic or Latino,White,0,0,18:09:00,27,14:54:00
+572840843,183,36.68,Male,Not Hispanic or Latino,White,0,0,02:17:00,189,16:41:00
+572840847,176,26.1,Male,Not Hispanic or Latino,Black or African American,0,0,21:02:00,100,16:39:00
+572840850,223,59.26,Male,Not Hispanic or Latino,Multiple race,0,0,09:08:00,51,13:35:00
+572840852,229,61.73,Female,Not Hispanic or Latino,White,0,0,03:05:00,18,21:18:00
+572840853,224,74.07,Male,Not Hispanic or Latino,White,0,0,16:36:00,86,13:31:00
+572840858,203,37.04,Male,Not Hispanic or Latino,White,0,0,21:42:00,269,15:29:00
+572840860,219,54.67,Male,Not Hispanic or Latino,White,0,0,20:14:00,40,12:16:00
+572840861,222,69.14,Male,No Information,No Information,0,0,23:25:00,37,14:05:00
+572840863,229,70.55,Male,Not Hispanic or Latino,White,0,0,23:15:00,25,13:15:00
+572840864,219,52.56,Male,Not Hispanic or Latino,Asian,6,0,11:09:00,58,14:21:00
+572840866,203,51.68,Male,Not Hispanic or Latino,White,0,0,20:12:00,50,14:05:00
+572840867,180,32.63,Male,Not Hispanic or Latino,White,0,0,10:28:00,102,18:30:00
+572840868,224,61.55,Female,Not Hispanic or Latino,White,0,0,13:44:00,29,12:02:00
+572840869,197,27.87,Female,Not Hispanic or Latino,Black or African American,0,0,11:14:00,90,16:12:00
+572840871,225,61.38,Male,Not Hispanic or Latino,White,3,0,15:11:00,17,13:01:00
+572840874,193,28.22,Female,Not Hispanic or Latino,Black or African American,0,0,12:55:00,103,14:59:00
+572840875,220,58.2,Male,Not Hispanic or Latino,White,0,0,17:17:00,123,17:00:00
+572840876,189,22.58,Female,Not Hispanic or Latino,Multiple race,0,0,18:56:00,86,17:40:00
+572840877,195,47.27,Male,Not Hispanic or Latino,Black or African American,0,0,12:49:00,76,18:55:00
+572840880,189,39.86,Female,Not Hispanic or Latino,Black or African American,0,0,15:13:00,108,13:10:00
+572840882,230,61.73,Female,Not Hispanic or Latino,White,1,0,02:40:00,55,11:54:00
+572840884,167,22.22,Male,Not Hispanic or Latino,White,0,0,10:11:00,235,15:14:00
+572840886,201,36.68,Male,Not Hispanic or Latino,White,0,0,13:23:00,73,13:00:00
+572840887,168,21.69,Female,Not Hispanic or Latino,Black or African American,0,0,16:57:00,128,20:32:00
+572840893,185,33.16,Female,Not Hispanic or Latino,Black or African American,9,0,11:23:00,77,17:58:00
+572840894,211,55.73,Male,Not Hispanic or Latino,White,0,0,19:31:00,34,14:26:00
+572840895,213,54.5,Male,Hispanic or Latino,Unknown,0,0,10:37:00,42,14:10:00
+572840896,183,29.98,Male,Not Hispanic or Latino,White,0,0,05:04:00,134,17:17:00
+572840897,174,23.28,Female,Not Hispanic or Latino,White,1,0,02:54:00,155,15:22:00
+572840899,209,73.93,Male,Unknown,Unknown,0,0,06:06:00,39,21:30:00
+572840900,228,74.6,Male,Not Hispanic or Latino,Black or African American,0,0,15:45:00,24,14:59:00
+572840901,179,31.75,Female,Unknown,Unknown,0,0,23:26:00,26,13:57:00
+572840902,207,26.98,Female,Not Hispanic or Latino,White,0,0,12:29:00,60,13:39:00
+572840905,212,48.5,Female,Not Hispanic or Latino,Black or African American,0,0,11:55:00,6,19:03:00
+572840906,186,25.22,Male,Not Hispanic or Latino,White,0,0,18:15:00,13,23:05:00
+572840908,230,90.83,Male,Not Hispanic or Latino,White,0,0,17:20:00,36,13:34:00
+572840910,196,38.8,Male,Not Hispanic or Latino,Multiple race,0,0,08:47:00,82,15:06:00
+572840916,215,53.26,Female,Not Hispanic or Latino,White,0,0,09:38:00,50,12:50:00
+572840918,186,37.74,Male,Not Hispanic or Latino,Multiple race,0,0,04:30:00,119,17:38:00
+572840922,207,31.57,Male,Not Hispanic or Latino,White,0,0,17:23:00,82,14:36:00
+572840925,225,57,Female,Not Hispanic or Latino,White,0,0,08:10:00,29,12:59:00
+572840927,163,18.34,Male,Not Hispanic or Latino,White,0,0,01:10:00,134,22:20:00
+572840930,189,38.45,Female,Not Hispanic or Latino,White,8,0,17:07:00,90,13:50:00
+572840931,229,53.09,Female,Not Hispanic or Latino,Asian,0,0,18:35:00,66,16:33:00
+572840932,229,68.92,Female,Not Hispanic or Latino,White,0,0,22:34:00,15,12:51:00
+572840934,227,68.08,Female,Not Hispanic or Latino,White,0,0,17:38:00,39,12:11:00
+572840935,216,93.12,Male,Not Hispanic or Latino,White,0,0,15:40:00,4,01:45:00
+572840936,194,38.62,Male,Not Hispanic or Latino,White,0,0,18:00:00,91,22:41:00
+572840940,216,55.91,Female,Not Hispanic or Latino,White,0,0,15:45:00,39,13:26:00
+572840942,229,69.49,Female,Not Hispanic or Latino,White,0,0,12:26:00,87,15:21:00
+572840945,211,43.39,Male,Not Hispanic or Latino,White,0,0,17:00:00,60,13:36:00
+572840946,217,47.27,Male,Not Hispanic or Latino,Multiple race,0,0,17:00:00,3,14:29:00
+572840947,213,35.27,Female,Not Hispanic or Latino,Black or African American,0,0,17:55:00,45,15:34:00
+572840949,219,47.62,Male,Not Hispanic or Latino,White,0,0,01:08:00,33,13:44:00
+572840950,230,80.67,Male,Not Hispanic or Latino,Unknown,0,0,15:57:00,35,13:24:00
+572840951,162,26.67,Male,Not Hispanic or Latino,White,0,0,14:59:00,9,18:18:00
+572840956,171,24.69,Female,Not Hispanic or Latino,White,0,0,08:01:00,107,19:02:00
+572840957,217,63.49,Male,Not Hispanic or Latino,White,0,0,09:05:00,45,18:26:00
+572840959,178,28.4,Female,Not Hispanic or Latino,Asian,0,0,06:51:00,100,15:20:00
+572840961,222,31.22,Female,Not Hispanic or Latino,White,0,0,21:31:00,44,13:50:00
+572840963,192,41.27,Female,Unknown,Unknown,0,0,16:38:00,2,23:34:00
+572840965,214,65.61,Male,Not Hispanic or Latino,White,0,0,11:09:00,23,16:23:00
+572840966,227,43.03,Female,Unknown,Unknown,0,0,02:00:00,12,05:30:00
+572840967,178,19.4,Female,Not Hispanic or Latino,White,0,0,01:19:00,194,11:51:00
+572840968,193,39.86,Male,Not Hispanic or Latino,Black or African American,19,0,20:38:00,49,13:51:00
+572840972,220,71.61,Male,Not Hispanic or Latino,White,1,0,06:10:00,48,14:17:00
+572840974,194,38.8,Female,Not Hispanic or Latino,Black or African American,0,0,08:04:00,1,18:34:00
+572840980,174,27.51,Male,Unknown,Unknown,0,0,20:37:00,13,01:50:00
+572840981,217,76.37,Male,Not Hispanic or Latino,Black or African American,0,0,10:33:00,44,18:00:00
+572840983,222,60.14,Male,Not Hispanic or Latino,Black or African American,0,0,19:18:00,8,19:00:00
+572840984,229,56.09,Female,Not Hispanic or Latino,Asian,0,0,03:18:00,26,13:29:00
