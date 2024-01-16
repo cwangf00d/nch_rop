@@ -1,14 +1,12 @@
-# setup
-setwd("/n/data2/hms/dbmi/beamlab/nch_rop")  # O2
-# install packages
-options(repos = c(CRAN = "https://cloud.r-project.org"))
-install.packages("qs")
-install.packages("tidyverse")
-install.packages("data.table") # Note: 'magrittr' is already included in 'tidyverse'
-install.packages("lubridate")
+# # install packages
+# options(repos = c(CRAN = "https://cloud.r-project.org"))
+# install.packages("qs")
+# install.packages("tidyverse")
+# install.packages("data.table") # Note: 'magrittr' is already included in 'tidyverse'
+# install.packages("lubridate")
+
 # loading in
 suppressPackageStartupMessages(library(qs))
-suppressPackageStartupMessages(library(tidyverse))
 suppressPackageStartupMessages(library(data.table))
 suppressPackageStartupMessages(library(lubridate))
 
@@ -22,9 +20,9 @@ comp_von <- von_note[IS_NOTE_COMPLETE == 'Y']
 comp_von[, TIME := baseline_date + days(NOTE_DAY) + hms(NOTE_TIME)]
 
 # patient ids
-filenames <- list.files("/Users/cindywang/PycharmProjects/nch_rop/data/export_deid_files/")
+filenames <- list.files("export_deid_files/")
 patients <- gsub("monitor_enc_([0-9]+)\\.qs", "\\1", filenames)
-enc_files_path = "/Users/cindywang/PycharmProjects/nch_rop/data/export_deid_files/monitor_enc_"
+enc_files_path = "/n/data2/hms/dbmi/beamlab/nch_rop/export_deid_files/monitor_enc_"
 
 # processing windows for each patient
 process_patient <- function(enc_id) {
@@ -47,11 +45,11 @@ process_patient <- function(enc_id) {
 }
 
 # iterate through patients
-result <- lapply(patients[1:2], process_patient)  # Adjust the range as needed
+result <- lapply(patients, process_patient)  # Adjust the range as needed
 
 # combine + save
 final_result <- rbindlist(result, use.names = TRUE)
-fwrite(final_result, file = "processed/enc_24h_windows.csv")
+fwrite(final_result, file = "/n/data2/hms/dbmi/beamlab/cindy/nch_rop/data/processed/enc_24h_windows.csv")
 
 # # variables + dataframes
 # baseline_date <- as.Date("2000-01-01")
